@@ -1,0 +1,6726 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Adamantina",
+          "Cidade": "ADAMANTINA",
+          "Descrição": "Alameda dos Expedicionários, 864, Centro, Adamantina, 17800-000",
+          "WKT": "POINT (-51.0785877 -21.6849465)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.0785877,
+            -21.6849465
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Aguaí",
+          "Cidade": "AGUAÍ",
+          "Descrição": "Rua Sete de Setembro, 1, Parque Interlagos, Aguaí, 13863-232",
+          "WKT": "POINT (-46.9724140 -22.0592940)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.972414,
+            -22.059294
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Agudos",
+          "Cidade": "AGUDOS",
+          "Descrição": "Avenida João Pessoa, 2, Professor Simões, Agudos, 17120-052",
+          "WKT": "POINT (-48.9933871 -22.4794280)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.9933871,
+            -22.479428
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Altinópolis",
+          "Cidade": "ALTINÓPOLIS",
+          "Descrição": "Rua Alagoas, 248, Vila Maria, Altinópolis, 14350-000",
+          "WKT": "POINT (-47.3742097 -21.0228295)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3742097,
+            -21.0228295
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Alumínio",
+          "Cidade": "ALUMÍNIO",
+          "Descrição": "Avenida Senador José Ermírio de Moraes, 798, Vila Industrial, Alumínio, 18125-000",
+          "WKT": "POINT (-47.2545218 -23.5343866)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2545218,
+            -23.5343866
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Alvares Machado",
+          "Cidade": "ALVARES MACHADO",
+          "Descrição": "Rua Fernando Costa, 314, Centro, Alvares Machado, 19160-000",
+          "WKT": "POINT (-51.4739135 -22.0756376)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.4739135,
+            -22.0756376
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Alvinlândia",
+          "Cidade": "ALVINLÂNDIA",
+          "Descrição": "Avenida Vereador Antônio Teruel, 376, Centro, Alvinlândia, 17430-000",
+          "WKT": "POINT (-49.7648401 -22.4397596)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.7648401,
+            -22.4397596
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Americana",
+          "Cidade": "AMERICANA",
+          "Descrição": "Rua das Hortências, 1555, Cidade Jardim II, Americana, 13467-190",
+          "WKT": "POINT (-47.3392078 -22.7663720)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3392078,
+            -22.766372
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Américo Brasiliense",
+          "Cidade": "AMÉRICO BRASILIENSE",
+          "Descrição": "Avenida Nove de Julho, 192, Centro, Américo Brasiliense, 14820-000",
+          "WKT": "POINT (-48.1053016 -21.7272002)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.1053016,
+            -21.7272002
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Amparo",
+          "Cidade": "AMPARO",
+          "Descrição": "Avenida Francisco Prestes Maia, 1119, Centro, Amparo, 13900-200",
+          "WKT": "POINT (-46.7594033 -22.6991177)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7594033,
+            -22.6991177
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Andradina",
+          "Cidade": "ANDRADINA",
+          "Descrição": "Rua Doutor Humberto de Campos, 229, Centro, Andradina, 16901-012",
+          "WKT": "POINT (-51.3684011 -20.8993058)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.3684011,
+            -20.8993058
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Anhembi",
+          "Cidade": "ANHEMBI",
+          "Descrição": "Avenida Prefeito Olavo Morato do Amaral, 230, Morada do sol, Anhembi, 18633-068",
+          "WKT": "POINT (-48.1354609 -22.7880485)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.1354609,
+            -22.7880485
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Aparecida",
+          "Cidade": "APARECIDA",
+          "Descrição": "Praça Padre Victor Coelho de Almeida, , Jardim São Paulo, Aparecida, 12570-000",
+          "WKT": "POINT (-45.2431035 -22.9276473)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.2431035,
+            -22.9276473
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Apiaí",
+          "Cidade": "APIAÍ",
+          "Descrição": "Rua Amarilio Gorgonha da Silva, 112, Centro, Apiaí, 18320-000",
+          "WKT": "POINT (-48.8446206 -24.5074974)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8446206,
+            -24.5074974
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Araçariguama",
+          "Cidade": "ARAÇARIGUAMA",
+          "Descrição": "R. Antônio Cintra Gordinho, 25, Cintra Gordinho, Araçariguama, 18147-000",
+          "WKT": "POINT (-47.0595852 -23.4431757)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.0595852,
+            -23.4431757
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Araçatuba",
+          "Cidade": "ARAÇATUBA",
+          "Descrição": "Rua Conselheiro Crispiniano, 550, Jardim Alvorada, Araçatuba, 16016-090",
+          "WKT": "POINT (-50.4251475 -21.2338251)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.4251475,
+            -21.2338251
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Araçoiaba Da Serra",
+          "Cidade": "ARAÇOIABA DA SERRA",
+          "Descrição": "Rua Professor Toledo, 756, Centro, Araçoiaba Da Serra, 18190-000",
+          "WKT": "POINT (-47.6222924 -23.5046846)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.6222924,
+            -23.5046846
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Arandu",
+          "Cidade": "ARANDU",
+          "Descrição": "Avenida Prefeito José Ferezin, 800, Jardim Maria Sodré, Arandu, 18710-000",
+          "WKT": "POINT (-49.0590712 -23.1392376)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.0590712,
+            -23.1392376
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Araraquara",
+          "Cidade": "ARARAQUARA",
+          "Descrição": "Rua Rômulo Lupo, 775, Jardim Universal, Araraquara, 14801-500",
+          "WKT": "POINT (-48.2033091 -21.7925180)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.2033091,
+            -21.792518
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Araras",
+          "Cidade": "ARARAS",
+          "Descrição": "Avenida Nestlé, 58, Vila Michelin, Araras, 13601-005",
+          "WKT": "POINT (-47.3790508 -22.3639217)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3790508,
+            -22.3639217
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Arealva",
+          "Cidade": "AREALVA",
+          "Descrição": "Avenida Adelino Mendonça, 1, Centro, Arealva, 17160-031",
+          "WKT": "POINT (-48.9063974 -22.0286069)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.9063974,
+            -22.0286069
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Areias",
+          "Cidade": "AREIAS",
+          "Descrição": "Avenida Siqueira Campos, 501, Centro, Areias, 12820-000",
+          "WKT": "POINT (-44.6922754 -22.5811244)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.6922754,
+            -22.5811244
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Areiópolis",
+          "Cidade": "AREIOPOLIS",
+          "Descrição": "Rua Vereador Procópio Vieira Rodrigues, 351, Cohab de Areiópolis, Areiópolis, 18670-000",
+          "WKT": "POINT (-48.6706741 -22.6796080)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.6706741,
+            -22.679608
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Artur Nogueira",
+          "Cidade": "ARTUR NOGUEIRA",
+          "Descrição": "Rua XV de Novembro, 1400, Jardim Planalto, Artur Nogueira, 13165-010",
+          "WKT": "POINT (-47.1627684 -22.5627194)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.1627684,
+            -22.5627194
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Arujá",
+          "Cidade": "ARUJÁ",
+          "Descrição": "Rua Mamede Barbosa, 105, Centro Residencial, Arujá, 07400-820",
+          "WKT": "POINT (-46.3326179 -23.3862778)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3326179,
+            -23.3862778
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Assis",
+          "Cidade": "ASSIS",
+          "Descrição": "Avenida Getulio Vargas, 1200, Vila Nova Santana, Assis, 19807-130",
+          "WKT": "POINT (-50.4208037 -22.6437992)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.4208037,
+            -22.6437992
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Atibaia",
+          "Cidade": "ATIBAIA",
+          "Descrição": "Avenida Dr. Joviano Alvim, 112, Alvinópolis, Atibaia, 12942-653",
+          "WKT": "POINT (-46.5623833 -23.1159949)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5623833,
+            -23.1159949
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Avaré",
+          "Cidade": "AVARÉ",
+          "Descrição": "Rua Bahia, 875, Centro, Avaré, 18700-090",
+          "WKT": "POINT (-48.9269461 -23.1031461)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.9269461,
+            -23.1031461
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bady Bassitt",
+          "Cidade": "BADY BASSITT",
+          "Descrição": "Rua Fernando Correia Pires, 500, Colina Sul, Bady Bassitt, 15115-000",
+          "WKT": "POINT (-49.4530224 -20.9224267)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.4530224,
+            -20.9224267
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Balsamo",
+          "Cidade": "BALSAMO",
+          "Descrição": "Rua Aurora Soares Geraldes, 419, Centro, Balsamo, 15140-000",
+          "WKT": "POINT (-49.5845447 -20.7335604)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.5845447,
+            -20.7335604
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bananal",
+          "Cidade": "BANANAL",
+          "Descrição": "Rua Dr. Leon Gilson, 33, Centro, Bananal, 12850-000",
+          "WKT": "POINT (-44.3228056 -22.6822799)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.3228056,
+            -22.6822799
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Barbosa",
+          "Cidade": "BARBOSA",
+          "Descrição": "Rua Belo Horizonte, 473, Morada do Sol, Barbosa, 16350-000",
+          "WKT": "POINT (-49.9540234 -21.2626009)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.9540234,
+            -21.2626009
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Barão de Antonina",
+          "Cidade": "BARÃO DE ANTONINA",
+          "Descrição": "Rua Recife, 450, Centro, Barão de Antonina, 18490-000",
+          "WKT": "POINT (-49.5645328 -23.6319952)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.5645328,
+            -23.6319952
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bariri",
+          "Cidade": "BARIRI",
+          "Descrição": "Rua Regina Pizza Beltrame, 127, Jardim Panorama, Bariri, 17250-000",
+          "WKT": "POINT (-48.7377725 -22.0650299)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.7377725,
+            -22.0650299
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Barra Bonita",
+          "Cidade": "BARRA BONITA",
+          "Descrição": "Rua Luiz Antonângelo, 200, Vila Operária, Barra Bonita, 17340-158",
+          "WKT": "POINT (-48.5541479 -22.4923848)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.5541479,
+            -22.4923848
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Barretos",
+          "Cidade": "BARRETOS",
+          "Descrição": "Rua 21 de Abril, 240, Derby Club, Barretos, 14787-240",
+          "WKT": "POINT (-48.5729448 -20.5340558)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.5729448,
+            -20.5340558
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Barrinha",
+          "Cidade": "BARRINHA",
+          "Descrição": "Rua Carlos Bombonato, 1000, Jardim Paulista, Barrinha, 14860-000",
+          "WKT": "POINT (-48.1498610 -21.1915082)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.149861,
+            -21.1915082
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bastos",
+          "Cidade": "BASTOS",
+          "Descrição": "Rua João Martins Ferreira , 197, Jardim Laranjeiras, Bastos, 17690-000",
+          "WKT": "POINT (-50.7279370 -21.9198874)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.727937,
+            -21.9198874
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bauru",
+          "Cidade": "BAURU",
+          "Descrição": "R. Elisiário Franco, 1, Vila Aviação, Bauru, 17018-730",
+          "WKT": "POINT (-49.0532240 -22.3587854)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.053224,
+            -22.3587854
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bernardino De Campos",
+          "Cidade": "BERNARDINO DE CAMPOS",
+          "Descrição": "Av. Albino Alves García, 270, Centro, Bernardino De Campos, 18960-000",
+          "WKT": "POINT (-49.4754337 -23.0115562)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.4754337,
+            -23.0115562
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bertioga",
+          "Cidade": "BERTIOGA",
+          "Descrição": "Avenida Tomé de Souza, 11833, Indaiá , Bertioga, 11250-000",
+          "WKT": "POINT (-46.0451828 -23.8190913)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.0451828,
+            -23.8190913
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Boa Esperança Do Sul",
+          "Cidade": "BOA ESPERANÇA DO SUL",
+          "Descrição": "Rua Manoel de Marins, 585, Centro, Boa Esperança Do Sul, 14930-000",
+          "WKT": "POINT (-48.3836736 -21.9901611)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3836736,
+            -21.9901611
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bocaina",
+          "Cidade": "BOCAINA",
+          "Descrição": "Rua 7 de Setembro, 178,, Bocaina, 17240-000",
+          "WKT": "POINT (-48.5188988 -22.1388854)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.5188988,
+            -22.1388854
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bofete",
+          "Cidade": "BOFETE",
+          "Descrição": "Rua João Martinelli, 41, Centro, Bofete, 17240-000",
+          "WKT": "POINT (-48.2594550 -23.1025212)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.259455,
+            -23.1025212
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Boituva",
+          "Cidade": "BOITUVA",
+          "Descrição": "Avenida Pereira Ignácio, 611, Centro, Boituva, 18550-000",
+          "WKT": "POINT (-47.6756047 -23.2792224)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.6756047,
+            -23.2792224
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bom Jesus Dos Perdões",
+          "Cidade": "BOM JESUS DOS PERDÕES",
+          "Descrição": "Avenida Eliseu Correa Dias, 325, Jardim Belo Horizonte, Bom Jesus Dos Perdões, 12955-000",
+          "WKT": "POINT (-46.4706861 -23.1298802)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4706861,
+            -23.1298802
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Borborema",
+          "Cidade": "BORBOREMA",
+          "Descrição": "Rua José Theodoro Puzi, 515,, Borborema, 14955-000",
+          "WKT": "POINT (-49.0846991 -21.6199018)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.0846991,
+            -21.6199018
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Botucatu",
+          "Cidade": "BOTUCATU",
+          "Descrição": "Rua Dr. Costa Leite, 1, Centro, Botucatu, 18600-010",
+          "WKT": "POINT (-48.4445157 -22.8790002)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4445157,
+            -22.8790002
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Bragança Paulista",
+          "Cidade": "BRAGANÇA PAULISTA",
+          "Descrição": "Rua das Indústrias, 130, Uberaba, Bragança Paulista, 12926-674",
+          "WKT": "POINT (-46.5458992 -22.9226007)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5458992,
+            -22.9226007
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Braúna",
+          "Cidade": "BRAÚNA",
+          "Descrição": "Avenida Barão do Rio Branco, 451, Centro, Braúna, 16290-000",
+          "WKT": "POINT (-50.3162174 -21.5009811)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.3162174,
+            -21.5009811
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Brotas",
+          "Cidade": "BROTAS",
+          "Descrição": "Rua Henrique Osti, 277, Jardim Felicidade, Brotas, 17380-000",
+          "WKT": "POINT (-48.1440754 -22.2758486)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.1440754,
+            -22.2758486
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Brodowsk",
+          "Cidade": "BRODOWSKI",
+          "Descrição": "Avenida Irmãos Lascala, 200, Vila Nossa Senhora das Graças, Brodowsk, 14340-000",
+          "WKT": "POINT (-47.6579739 -20.9882975)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.6579739,
+            -20.9882975
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Buri",
+          "Cidade": "BURI",
+          "Descrição": "Rua Benjamin Constant , 1, Alem Linha, Buri, 18290-000",
+          "WKT": "POINT (-48.5992780 -23.7975999)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.599278,
+            -23.7975999
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cabreúva",
+          "Cidade": "CABREÚVA",
+          "Descrição": "Via Desembargador Luiz Carlos Araújo, 101, Chácara Acauã, Cabreúva, 13315-000",
+          "WKT": "POINT (-47.1336779 -23.3073663)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.1336779,
+            -23.3073663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Caçapava",
+          "Cidade": "CAÇAPAVA",
+          "Descrição": "Rua André Santos Oliveira Lima, 15, Vila André Martins, Caçapava, 12280-096",
+          "WKT": "POINT (-45.7084233 -23.0873366)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.7084233,
+            -23.0873366
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cachoeira Paulista",
+          "Cidade": "CACHOEIRA PAULISTA",
+          "Descrição": "Rua Bernardino de Campos, 103, Centro, Cachoeira Paulista, 12630-000",
+          "WKT": "POINT (-45.0077415 -22.6640178)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.0077415,
+            -22.6640178
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Caconde",
+          "Cidade": "CACONDE",
+          "Descrição": "Praça Coronel Gustavo Ribeiro, 92, Centro, Caconde, 13770-000",
+          "WKT": "POINT (-46.6438902 -21.5286246)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.6438902,
+            -21.5286246
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cafelândia",
+          "Cidade": "CAFELÂNDIA",
+          "Descrição": "Avenida do Café, 9, Centro, Cafelândia, 16500-000",
+          "WKT": "POINT (-49.6052405 -21.8034664)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.6052405,
+            -21.8034664
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Caieiras",
+          "Cidade": "CAIEIRAS",
+          "Descrição": "Praça Claudio Manoel da Costa, 1, Laranjeiras, Caieiras, 07739-075",
+          "WKT": "POINT (-46.7159326 -23.3953171)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7159326,
+            -23.3953171
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cajamar",
+          "Cidade": "CAJAMAR",
+          "Descrição": "Rua Engenheiro Sergio Shigeru Harada, 95, Centro, Cajamar, 07750-000",
+          "WKT": "POINT (-46.8363986 -23.4105521)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8363986,
+            -23.4105521
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cajati",
+          "Cidade": "CAJATI",
+          "Descrição": "Rua Romã, 406, Vila Antunes, Cajati, 11950-000",
+          "WKT": "POINT (-48.1150093 -24.7360246)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.1150093,
+            -24.7360246
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cajobi",
+          "Cidade": "CAJOBI",
+          "Descrição": "Rua Olga Bernardes Zamperlini, 320, Centro, Cajobi, 15410-000",
+          "WKT": "POINT (-48.8080242 -20.8785834)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8080242,
+            -20.8785834
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cajuru",
+          "Cidade": "CAJURU",
+          "Descrição": "Rua Sampaio Moreira, 782, Centro, Cajuru, 14240-000",
+          "WKT": "POINT (-47.3042022 -21.2714507)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3042022,
+            -21.2714507
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Campinas",
+          "Cidade": "CAMPINAS",
+          "Descrição": "Rua Doutor Emílio Ribas, 880, Cambuí, Campinas, 13025-141",
+          "WKT": "POINT (-47.0508716 -22.8966905)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.0508716,
+            -22.8966905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Campo Limpo Paulista",
+          "Cidade": "CAMPO LIMPO PAULISTA",
+          "Descrição": "Rua João Inácio Velasco, 35, Centro, Campo Limpo Paulista, 13230-000",
+          "WKT": "POINT (-46.7892460 -23.2074224)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.789246,
+            -23.2074224
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Campos Do Jordão",
+          "Cidade": "CAMPOS DO JORDÃO",
+          "Descrição": "Rua Altino Arantes, 172, Abernéssia, Campos Do Jordão, 12460-000",
+          "WKT": "POINT (-45.5886827 -22.7391901)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.5886827,
+            -22.7391901
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Candido Rodrigues",
+          "Cidade": "CÂNDIDO RODRIGUES",
+          "Descrição": "Rua Piauí, 540, Centro, Candido Rodrigues, 15930-000",
+          "WKT": "POINT (-48.6290404 -21.3274139)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.6290404,
+            -21.3274139
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Capão Bonito",
+          "Cidade": "CAPÃO BONITO",
+          "Descrição": "Rua Bernardino de Campos, 477, Centro, Capão Bonito, 18300-040",
+          "WKT": "POINT (-48.3496914 -24.0044833)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3496914,
+            -24.0044833
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Capela Do Alto",
+          "Cidade": "CAPELA DO ALTO",
+          "Descrição": "Avenida Professor Castorino de Almeida, 300, Centro, Capela Do Alto, 18195-000",
+          "WKT": "POINT (-47.7403339 -23.4686767)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7403339,
+            -23.4686767
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Capivari",
+          "Cidade": "CAPIVARI",
+          "Descrição": "Rua Antonio Ribeiro de Godoy, 1, Jardim São Marcos, Capivari, 13360-000",
+          "WKT": "POINT (-47.5231681 -23.0091400)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5231681,
+            -23.00914
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Caraguatatuba",
+          "Cidade": "CARAGUATATUBA",
+          "Descrição": "Rua João Marcello, 302, Estrela D’alva, Caraguatatuba, 11660-600",
+          "WKT": "POINT (-45.4201322 -23.6204802)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.4201322,
+            -23.6204802
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Carapicuíba",
+          "Cidade": "CARAPICUÍBA",
+          "Descrição": "Estrada Ernestina Vieira, 149, Vila Dirce, Carapicuíba, 06382-260",
+          "WKT": "POINT (-46.8375451 -23.5530454)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8375451,
+            -23.5530454
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Casa Branca",
+          "Cidade": "CASA BRANCA",
+          "Descrição": "Rua Maria José Caetano de Almeida, 11, Parque São Paulo, Casa Branca, 13700-000",
+          "WKT": "POINT (-47.0789854 -21.7590160)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.0789854,
+            -21.759016
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Catanduva",
+          "Cidade": "CATANDUVA",
+          "Descrição": "Avenida Daniel Dalto, 1, Expansão 1, Catanduva, 15800-970",
+          "WKT": "POINT (-48.9825598 -21.1636257)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.9825598,
+            -21.1636257
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cerqueira César",
+          "Cidade": "CERQUEIRA CÉSAR",
+          "Descrição": "Praça Irmãos Ferreira, 2, Centro, Cerqueira César, 18760-025",
+          "WKT": "POINT (-49.1674424 -23.0353176)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.1674424,
+            -23.0353176
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cerquilho",
+          "Cidade": "CERQUILHO",
+          "Descrição": "Rua Duque de Caxias, 100, Jardim Esplanada, Cerquilho, 18520-019",
+          "WKT": "POINT (-47.7468826 -23.1654798)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7468826,
+            -23.1654798
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cesário Lange",
+          "Cidade": "CESÁRIO LANGE",
+          "Descrição": "Rua Camargo Barros, 1210, Centro, Cesário Lange, 18285-000",
+          "WKT": "POINT (-47.9608102 -23.2236237)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.9608102,
+            -23.2236237
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Charqueada",
+          "Cidade": "CHARQUEADA",
+          "Descrição": "Rua João Baptista Callegaro, 255, Jardim Bandeirante, Charqueada, 13517-234",
+          "WKT": "POINT (-47.7774969 -22.5018602)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7774969,
+            -22.5018602
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Chavantes",
+          "Cidade": "CHAVANTES",
+          "Descrição": "Rua Maestro Carlos Gomes, 551, Centro, Chavantes, 18970-180",
+          "WKT": "POINT (-49.7050784 -23.0381939)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.7050784,
+            -23.0381939
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Clementina",
+          "Cidade": "CLEMENTINA",
+          "Descrição": "Rua Santa Catarina, 152, Centro, Clementina, 16250-000",
+          "WKT": "POINT (-50.4520971 -21.5608029)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.4520971,
+            -21.5608029
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Colina",
+          "Cidade": "COLINA",
+          "Descrição": "Rua Rui Barbosa, 682, Centro, Colina, 14770-000",
+          "WKT": "POINT (-48.5399441 -20.7143831)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.5399441,
+            -20.7143831
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Conchal",
+          "Cidade": "CONCHAL",
+          "Descrição": "Rua Alvaro Ribeiro, 287, Centro , Conchal, 13835-000",
+          "WKT": "POINT (-47.1731930 -22.3317759)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.173193,
+            -22.3317759
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Conchas",
+          "Cidade": "CONCHAS",
+          "Descrição": "Rua Bahia, 78, Centro, Conchas, 18570-000",
+          "WKT": "POINT (-48.0087502 -23.0137398)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0087502,
+            -23.0137398
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cordeirópolis",
+          "Cidade": "CORDEIRÓPOLIS",
+          "Descrição": "Rua Galdino de Souza Barbosa, 400, Jardim Cordeiro, Cordeirópolis, 13490-000",
+          "WKT": "POINT (-47.4754705 -22.4841418)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4754705,
+            -22.4841418
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cosmópolis",
+          "Cidade": "COSMÓPOLIS",
+          "Descrição": "Avenida da Saudade, 528, Vila José Kalil Aun, Cosmópolis, 13150-670",
+          "WKT": "POINT (-47.1849287 -22.6451917)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.1849287,
+            -22.6451917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cravinhos",
+          "Cidade": "CRAVINHOS",
+          "Descrição": "Rua Horacio Sabino Coimbra, 577, Jardim Alvorada, Cravinhos, 14140-000",
+          "WKT": "POINT (-47.7254297 -21.3546352)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7254297,
+            -21.3546352
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cristais Paulista",
+          "Cidade": "CRISTAIS PAULISTA",
+          "Descrição": "Avenida Antônio Prado, 3240, Centro, Cristais Paulista, 14460-000",
+          "WKT": "POINT (-47.4236386 -20.4032931)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4236386,
+            -20.4032931
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cruzeiro",
+          "Cidade": "CRUZEIRO",
+          "Descrição": "Rua Dr. José Rodrigues Alves Sobrinho, 191, Vila Suely, Cruzeiro, 12710-410",
+          "WKT": "POINT (-44.9608600 -22.5663682)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.96086,
+            -22.5663682
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cubatão",
+          "Cidade": "CUBATÃO",
+          "Descrição": "Avenida Dr. Fernando Costa, 1096, Vila Couto, Cubatão, 11510-310",
+          "WKT": "POINT (-46.4269065 -23.8821198)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4269065,
+            -23.8821198
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Cunha",
+          "Cidade": "CUNHA",
+          "Descrição": "Rua Dr. Alfredo Casemiro da Rocha Filho, 156, Cajuru, Cunha, 12530-000",
+          "WKT": "POINT (-44.9556769 -23.0771452)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.9556769,
+            -23.0771452
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Diadema",
+          "Cidade": "DIADEMA",
+          "Descrição": "Rua Manoel da Nóbrega, 155, Centro, Diadema, 09912-720",
+          "WKT": "POINT (-46.6226684 -23.6871461)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.6226684,
+            -23.6871461
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Dois Córregos",
+          "Cidade": "DOIS CÓRREGOS",
+          "Descrição": "Avenida Vasco da Gama, 164, Jardim Arco-íris, Dois Córregos, 17302-178",
+          "WKT": "POINT (-48.3915185 -22.3653320)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3915185,
+            -22.365332
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Dourado",
+          "Cidade": "DOURADO",
+          "Descrição": "Rua José Bustani, 600, Jardim Paulista, Dourado, 13590-000",
+          "WKT": "POINT (-48.3128961 -22.1076652)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3128961,
+            -22.1076652
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Dracena",
+          "Cidade": "DRACENA",
+          "Descrição": "Rua Tupã, 601, São Francisco, Dracena, 17900-000",
+          "WKT": "POINT (-51.5484849 -21.4882292)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.5484849,
+            -21.4882292
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Dumont",
+          "Cidade": "DUMONT",
+          "Descrição": "Rua José Negri, 412,, Dumont, 14120-000",
+          "WKT": "POINT (-47.9748489 -21.2419646)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.9748489,
+            -21.2419646
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Eldorado",
+          "Cidade": "ELDORADO",
+          "Descrição": "Avenida Marechal Castelo Branco, 71, Centro, Eldorado, 11960-000",
+          "WKT": "POINT (-48.1087757 -24.5228504)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.1087757,
+            -24.5228504
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Elias Fausto",
+          "Cidade": "ELIAS FAUSTO",
+          "Descrição": "Rua Oswaldo Maluf, 250, Vila Anchieta, Elias Fausto, 13350-000",
+          "WKT": "POINT (-47.3668693 -23.0474771)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3668693,
+            -23.0474771
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Embu Das Artes",
+          "Cidade": "EMBU DAS ARTES",
+          "Descrição": "Rua Alberto Giosa, 390, Centro, Embu Das Artes, 06803-270",
+          "WKT": "POINT (-46.8566007 -23.6569657)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8566007,
+            -23.6569657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Engenheiro Coelho",
+          "Cidade": "ENGENHEIRO COELHO",
+          "Descrição": "Rua Alexandre Bonin, 481, Jardim do Sol, Engenheiro Coelho, 13445-450",
+          "WKT": "POINT (-47.2070160 -22.4930526)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.207016,
+            -22.4930526
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Espírito Santo Do Pinhal",
+          "Cidade": "ESPÍRITO SANTO DO PINHAL",
+          "Descrição": "Praça Irmão Estevão von Herkhuizen, , Jardim das Rosas, Espírito Santo Do Pinhal, 13990-000",
+          "WKT": "POINT (-46.7618632 -22.1919639)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7618632,
+            -22.1919639
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Estiva Gerbi",
+          "Cidade": "ESTIVA GERBI",
+          "Descrição": "Avenida Angelo Zanco, 823, Centro, Estiva Gerbi, 13857-000",
+          "WKT": "POINT (-46.9521657 -22.2774279)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9521657,
+            -22.2774279
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Estrela Do Norte",
+          "Cidade": "ESTRELA DO NORTE",
+          "Descrição": "Avenida Elias Bezerra Leite, 185, Centro, Estrela Do Norte, 19230-000",
+          "WKT": "POINT (-51.6616726 -22.4858787)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.6616726,
+            -22.4858787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Fartura",
+          "Cidade": "FARTURA",
+          "Descrição": "Rua Santa Maria, 60, Vila Nossa Senhora de Fátima, Fartura, 18870-000",
+          "WKT": "POINT (-49.5046573 -23.3833956)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.5046573,
+            -23.3833956
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Fernandópolis",
+          "Cidade": "FERNANDÓPOLIS",
+          "Descrição": "Avenida Literio Grecco, 300, Vila São Fernando, Fernandópolis, 15508-060",
+          "WKT": "POINT (-50.2287747 -20.2735619)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.2287747,
+            -20.2735619
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ferraz De Vasconcelos",
+          "Cidade": "FERRAZ DE VASCONCELOS",
+          "Descrição": "Rua Sud Menucci, 203, Centro, Ferraz De Vasconcelos, 08500-100",
+          "WKT": "POINT (-46.3682176 -23.5436461)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3682176,
+            -23.5436461
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Flora Rica",
+          "Cidade": "FLORA RICA",
+          "Descrição": "Rua Vereador Raimundo Antonio de Araujo, 416, Centro, Flora Rica, 17870-000",
+          "WKT": "POINT (-51.3799561 -21.6759050)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.3799561,
+            -21.675905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Flórida Paulista",
+          "Cidade": "FLÓRIDA PAULISTA",
+          "Descrição": "Avenida dos Expedicionários, 190, Centro, Flórida Paulista, 17830-000",
+          "WKT": "POINT (-51.1703443 -21.6138498)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.1703443,
+            -21.6138498
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Franca",
+          "Cidade": "FRANCA",
+          "Descrição": "Avenida Champagnat, 1808, Centro, Franca, 14400-320",
+          "WKT": "POINT (-47.4012559 -20.5453519)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4012559,
+            -20.5453519
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Francisco Morato",
+          "Cidade": "FRANCISCO MORATO",
+          "Descrição": "Rua Virgilio Martins de Oliveira, 824, Vila Heloisa, Francisco Morato, 07914-043",
+          "WKT": "POINT (-46.7517408 -23.2809713)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7517408,
+            -23.2809713
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Franco Da Rocha",
+          "Cidade": "FRANCO DA ROCHA",
+          "Descrição": "Avenida dos Coqueiros, 50, Centro, Franco Da Rocha, 07850-320",
+          "WKT": "POINT (-46.7271832 -23.3316258)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7271832,
+            -23.3316258
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Garça",
+          "Cidade": "GARÇA",
+          "Descrição": "Rua Padre Paulo de Toledo Leite, 411, Ferrarópólis, Garça, 17400-000",
+          "WKT": "POINT (-49.6566082 -22.2081809)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.6566082,
+            -22.2081809
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Gavião Peixoto",
+          "Cidade": "GAVIÃO PEIXOTO",
+          "Descrição": "Alameda Ferez, 954, Centro, Gavião Peixoto, 14813-000",
+          "WKT": "POINT (-48.4952250 -21.8355886)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.495225,
+            -21.8355886
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guaíra",
+          "Cidade": "GUAÍRA",
+          "Descrição": "Rua 16 B, 2000, José Pugliesi, Guaíra, 14790-000",
+          "WKT": "POINT (-48.3215101 -20.3083899)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3215101,
+            -20.3083899
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guapiaçu",
+          "Cidade": "GUAPIAÇU",
+          "Descrição": "Rua Alfredo de Souza Barbeiro, 280, Ribeirão Claro, Guapiaçu, 15110-000",
+          "WKT": "POINT (-49.2232993 -20.7998671)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.2232993,
+            -20.7998671
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guará",
+          "Cidade": "GUARÁ",
+          "Descrição": "Rua João Carlos Figueiredo, 11, Centro, Guará, 14580-000",
+          "WKT": "POINT (-47.8201788 -20.4257153)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.8201788,
+            -20.4257153
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guaraci",
+          "Cidade": "GUARACI",
+          "Descrição": "Rua Lhen Nicolau, 657, Centro, Guaraci, 15420-000",
+          "WKT": "POINT (-48.9455153 -20.4985541)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.9455153,
+            -20.4985541
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guararapes",
+          "Cidade": "GUARARAPES",
+          "Descrição": "Rua José Dalla Pria, 77, Continental, Guararapes, 16700-000",
+          "WKT": "POINT (-50.6475281 -21.2401778)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.6475281,
+            -21.2401778
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guararema",
+          "Cidade": "GUARAREMA",
+          "Descrição": "Rua Dr. Armindo, 567, Nogueira, Guararema, 08900-000",
+          "WKT": "POINT (-46.0312760 -23.4183220)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.031276,
+            -23.418322
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guaratinguetá",
+          "Cidade": "GUARATINGUETÁ",
+          "Descrição": "Praça Condensa de Frontin, 76, Centro, Guaratinguetá, 12500-180",
+          "WKT": "POINT (-45.1913880 -22.8142465)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.191388,
+            -22.8142465
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guareí",
+          "Cidade": "GUAREÍ",
+          "Descrição": "Rua Tiradentes , 100, Centro, Guareí, 18250-000",
+          "WKT": "POINT (-48.1808893 -23.3739900)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.1808893,
+            -23.37399
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guariba",
+          "Cidade": "GUARIBA",
+          "Descrição": "Rua Sampaio Vidal, 528, Jardim Progresso, Guariba, 14840-000",
+          "WKT": "POINT (-48.2277887 -21.3602889)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.2277887,
+            -21.3602889
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guarujá",
+          "Cidade": "GUARUJÁ",
+          "Descrição": "Rua Ceará, 1, Jardim Santense, Guarujá, 11432-501",
+          "WKT": "POINT (-46.3059151 -23.9438207)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3059151,
+            -23.9438207
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guarulhos",
+          "Cidade": "GUARULHOS",
+          "Descrição": "Avenida Monteiro Lobato, 734, Macedo, Guarulhos, 07112-000",
+          "WKT": "POINT (-46.5192440 -23.4694582)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.519244,
+            -23.4694582
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Guatapará",
+          "Cidade": "GUATAPARÁ",
+          "Descrição": "Rua José Linares Neto, 129, Centro, Guatapará, 14115-000",
+          "WKT": "POINT (-48.0343048 -21.4952342)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0343048,
+            -21.4952342
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Herculândia",
+          "Cidade": "HERCULÂNDIA",
+          "Descrição": "Avenida Rui Barbosa, 387, Centro, Herculândia, 17650-000",
+          "WKT": "POINT (-50.3870741 -22.0043951)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.3870741,
+            -22.0043951
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Holambra",
+          "Cidade": "HOLAMBRA",
+          "Descrição": "Rua Dr. Jorge Latour, 1, Centro, Holambra, 13825-000",
+          "WKT": "POINT (-47.0564069 -22.6317383)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.0564069,
+            -22.6317383
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Hortolândia",
+          "Cidade": "HORTOLÂNDIA",
+          "Descrição": "Rua Capitão Lourival Mey, 750, Jardim Santana, Hortolândia, 13184-470",
+          "WKT": "POINT (-47.2100222 -22.8720493)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2100222,
+            -22.8720493
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Iacanga",
+          "Cidade": "IACANGA",
+          "Descrição": "Rua Antonio Trentin, 263, Jardim Paraíso, Iacanga, 17180-000",
+          "WKT": "POINT (-49.0252427 -21.8973815)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.0252427,
+            -21.8973815
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ibirá",
+          "Cidade": "IBIRÁ",
+          "Descrição": "Rua Ibirá, 896, Centro, Ibirá, 15860-000",
+          "WKT": "POINT (-49.2410272 -21.0818543)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.2410272,
+            -21.0818543
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ibitinga",
+          "Cidade": "IBITINGA",
+          "Descrição": "Rua Capitão João Marques, 80, Jardim Centenário, Ibitinga, 14940-484",
+          "WKT": "POINT (-48.8333349 -21.7523609)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8333349,
+            -21.7523609
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ibiúna",
+          "Cidade": "IBIÚNA",
+          "Descrição": "Rua Raimundo Santiago, 30, Centro, Ibiúna, 18150-000",
+          "WKT": "POINT (-47.2216594 -23.6551110)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2216594,
+            -23.655111
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Icém",
+          "Cidade": "ICÉM",
+          "Descrição": "Rua Rua João Rola Rosa, 20, Vila de Furnas, Icém, 15460-000",
+          "WKT": "POINT (-49.1996042 -20.3454448)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.1996042,
+            -20.3454448
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Igaraçu Do Tietê",
+          "Cidade": "IGARAÇU DO TIETÊ",
+          "Descrição": "Rua Virgílio Tuschi, 200, COHAB, Igaraçu Do Tietê, 17354-138",
+          "WKT": "POINT (-48.5664909 -22.5237220)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.5664909,
+            -22.523722
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Igarapava",
+          "Cidade": "IGARAPAVA",
+          "Descrição": "Rua Azaria Arantes, 830, Centro, Igarapava, 14540-000",
+          "WKT": "POINT (-47.7432521 -20.0354589)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7432521,
+            -20.0354589
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Igaratá",
+          "Cidade": "IGARATÁ",
+          "Descrição": "Rua José de Souza Palau , 1, Jardim Rosa Helena, Igaratá, 12350-000",
+          "WKT": "POINT (-46.1612199 -23.2097337)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.1612199,
+            -23.2097337
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Iguape",
+          "Cidade": "IGUAPE",
+          "Descrição": "Rodovia Prefeito Casemiro Teixeira, 450, Porto do Ribeira, Iguape, 11920 000",
+          "WKT": "POINT (-47.5631931 -24.6924508)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5631931,
+            -24.6924508
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ilha Comprida",
+          "Cidade": "ILHA COMPRIDA",
+          "Descrição": "Rua Bermudas, 531, Balneário Monte Carlo, Ilha Comprida, 11925-000",
+          "WKT": "POINT (-47.5541780 -24.7448980)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.554178,
+            -24.744898
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ilha Solteira",
+          "Cidade": "ILHA SOLTEIRA",
+          "Descrição": "Rua Passeio Parati, 513, Zona Sul, Ilha Solteira, 15385-000",
+          "WKT": "POINT (-51.3429722 -20.4326028)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.3429722,
+            -20.4326028
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ilhabela",
+          "Cidade": "ILHABELA",
+          "Descrição": "Rua Antonio Carlos Aires da Fé, 55, Barra Velha, Ilhabela, 11630-000",
+          "WKT": "POINT (-45.3671366 -23.8247563)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.3671366,
+            -23.8247563
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Indaiatuba",
+          "Cidade": "INDAIATUBA",
+          "Descrição": "Rua Dom Pedro I, 65, Cidade Nova, Indaiatuba, 13334-100",
+          "WKT": "POINT (-47.2025373 -23.0859946)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2025373,
+            -23.0859946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ipaussu",
+          "Cidade": "IPAUSSU",
+          "Descrição": "Rua Domingos Fernandes, 240, Centro, Ipaussu, 18950-000",
+          "WKT": "POINT (-49.6274973 -23.0505334)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.6274973,
+            -23.0505334
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Iperó",
+          "Cidade": "IPERÓ",
+          "Descrição": "Rua Luiz Rossi, 57, Jardim Irene, Iperó, 18560-000",
+          "WKT": "POINT (-47.6933851 -23.3485427)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.6933851,
+            -23.3485427
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ipeúna",
+          "Cidade": "IPEÚNA",
+          "Descrição": "Rua Araripe Custódio da Fonseca, 775, Jardim Altos de Ipeúna, Ipeúna, 13537-000",
+          "WKT": "POINT (-47.7092610 -22.4319661)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.709261,
+            -22.4319661
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Iporanga",
+          "Cidade": "IPORANGA",
+          "Descrição": "Praça Padre Caiffa, 70, Centro, Iporanga, 18330-000",
+          "WKT": "POINT (-48.5939523 -24.5833664)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.5939523,
+            -24.5833664
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Irapuru",
+          "Cidade": "IRAPURU",
+          "Descrição": "Avenida Nove de Julho, 298, Centro, Irapuru, 17880-970",
+          "WKT": "POINT (-51.3503015 -21.5678808)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.3503015,
+            -21.5678808
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itaberá",
+          "Cidade": "ITABERÁ",
+          "Descrição": "Rua Josephina Silva Melo, 500, Centro, Itaberá, 18440-000",
+          "WKT": "POINT (-49.1384210 -23.8625744)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.138421,
+            -23.8625744
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itaí",
+          "Cidade": "ITAÍ",
+          "Descrição": "Avenida Santo Antonio, 1120, Centro, Itaí, 18734-280",
+          "WKT": "POINT (-49.0903761 -23.4190854)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.0903761,
+            -23.4190854
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itajobi",
+          "Cidade": "ITAJOBI",
+          "Descrição": "Rua Cincinato Braga, 995, Centro, Itajobi, 15840-000",
+          "WKT": "POINT (-49.0611305 -21.3120403)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.0611305,
+            -21.3120403
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itaju",
+          "Cidade": "ITAJU",
+          "Descrição": "Rua Miguel Braz Arroteia, 70, Centro, Itaju, 17260-000",
+          "WKT": "POINT (-48.8003934 -21.9840767)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8003934,
+            -21.9840767
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itanhaém",
+          "Cidade": "ITANHAÉM",
+          "Descrição": "Avenida Condessa de Vimieiros, 1131, Centro, Itanhaém, 11740-000",
+          "WKT": "POINT (-46.7783854 -24.1792917)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7783854,
+            -24.1792917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itaoca",
+          "Cidade": "ITAOCA",
+          "Descrição": "Rua Salvador Gonçalves de Pontes, 49, Centro, Itaoca, 18360-000",
+          "WKT": "POINT (-48.8412103 -24.6412073)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8412103,
+            -24.6412073
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itapecerica Da Serra",
+          "Cidade": "ITAPECERICA DA SERRA",
+          "Descrição": "Rua São João, 47, Centro, Itapecerica Da Serra, 06850-060",
+          "WKT": "POINT (-46.8510587 -23.7154392)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8510587,
+            -23.7154392
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itapetininga",
+          "Cidade": "ITAPETININGA",
+          "Descrição": "Rua General Carneiro, 390, Centro, Itapetininga, 18213-615",
+          "WKT": "POINT (-48.0553383 -23.5913088)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0553383,
+            -23.5913088
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itapeva",
+          "Cidade": "ITAPEVA",
+          "Descrição": "Rua Prefeito Felipe Marinho, 110, Centro, Itapeva, 18400-005",
+          "WKT": "POINT (-48.8796174 -23.9895158)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8796174,
+            -23.9895158
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itapevi",
+          "Cidade": "ITAPEVI",
+          "Descrição": "Rua Professor Irineu Chaluppe, 65, Jardim Itapevi, Itapevi, 06653-180",
+          "WKT": "POINT (-46.9310787 -23.5455097)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9310787,
+            -23.5455097
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itapira",
+          "Cidade": "ITAPIRA",
+          "Descrição": "Rua Embaixador Pedro de Toledo, 859, Centro, Itapira, 13970-130",
+          "WKT": "POINT (-46.8233351 -22.4327808)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8233351,
+            -22.4327808
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itápolis",
+          "Cidade": "ITÁPOLIS",
+          "Descrição": "Rua Joaquim Nabuco, 292, Vila Santos, Itápolis, 14900-000",
+          "WKT": "POINT (-48.8181691 -21.5896155)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8181691,
+            -21.5896155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itaporanga",
+          "Cidade": "ITAPORANGA",
+          "Descrição": "Rua João Scotti Siqueira, 535, Itaporanga, Itaporanga, 18480-000",
+          "WKT": "POINT (-49.4952337 -23.7107407)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.4952337,
+            -23.7107407
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itapuí",
+          "Cidade": "ITAPUÍ",
+          "Descrição": "Avenida Paes de Barros, 262, Centro, Itapuí, 17230-000",
+          "WKT": "POINT (-48.7219855 -22.2343763)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.7219855,
+            -22.2343763
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itaquaquecetuba",
+          "Cidade": "ITAQUAQUECETUBA",
+          "Descrição": "Rua MMDC, 92, Centro, Itaquaquecetuba, 08570-007",
+          "WKT": "POINT (-46.3540905 -23.4790641)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3540905,
+            -23.4790641
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itararé",
+          "Cidade": "ITARARÉ",
+          "Descrição": "Rua Campos Sales, 1320, Centro, Itararé, 18460-000",
+          "WKT": "POINT (-49.3336332 -24.1164049)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.3336332,
+            -24.1164049
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itariri",
+          "Cidade": "ITARIRI",
+          "Descrição": "Rua Nabe Kian, 61, Continental, Itariri, 11760-000",
+          "WKT": "POINT (-47.1742719 -24.2885104)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.1742719,
+            -24.2885104
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itatiba",
+          "Cidade": "ITATIBA",
+          "Descrição": "Avenida Urbano Bezana, 1, Porto Seguro, Itatiba, 13255-650",
+          "WKT": "POINT (-46.8496961 -23.0283256)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8496961,
+            -23.0283256
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itatinga",
+          "Cidade": "ITATINGA",
+          "Descrição": "Rua São João, 410, Vila Prete, Itatinga, 18690-000",
+          "WKT": "POINT (-48.6186661 -23.1000183)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.6186661,
+            -23.1000183
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itu",
+          "Cidade": "ITU",
+          "Descrição": "Avenida Tiradentes, 1211, Parque Industrial, Itu, 13309-640",
+          "WKT": "POINT (-47.2962655 -23.2903129)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2962655,
+            -23.2903129
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Itupeva",
+          "Cidade": "ITUPEVA",
+          "Descrição": "Rua Mairinque, 715, Residencial Pacaembu I, Itupeva, 13295-000",
+          "WKT": "POINT (-47.0411276 -23.1544367)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.0411276,
+            -23.1544367
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ituverava",
+          "Cidade": "ITUVERAVA",
+          "Descrição": "Rua Xaraiés, 50, Jardim Marajoara, Ituverava, 14500-000",
+          "WKT": "POINT (-47.7826408 -20.3301877)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7826408,
+            -20.3301877
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jaborandi",
+          "Cidade": "JABORANDI",
+          "Descrição": "Rua Inácio Máximo Diniz Junqueira, 527, Centro, Jaborandi, 14775-000",
+          "WKT": "POINT (-48.4151745 -20.6895430)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4151745,
+            -20.689543
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jaboticabal",
+          "Cidade": "JABOTICABAL",
+          "Descrição": "Avenida General Osório, 215, Centro, Jaboticabal, 14870-100",
+          "WKT": "POINT (-48.3188929 -21.2599598)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3188929,
+            -21.2599598
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jacareí",
+          "Cidade": "JACAREÍ",
+          "Descrição": "Rua Faria Lima, 155, Jardim Santa Maria, Jacareí, 12328-070",
+          "WKT": "POINT (-45.9665011 -23.2949232)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.9665011,
+            -23.2949232
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jacupiranga",
+          "Cidade": "JACUPIRANGA",
+          "Descrição": "Avenida Vinte e Três de Junho, 649, Vila Elias, Jacupiranga, 11940-000",
+          "WKT": "POINT (-48.0069414 -24.7026750)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0069414,
+            -24.702675
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jaguariúna",
+          "Cidade": "JAGUARIÚNA",
+          "Descrição": "Rua Bahia, 140, Jardim São Joao, Jaguariúna, 13911-454",
+          "WKT": "POINT (-46.9873791 -22.7007479)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9873791,
+            -22.7007479
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jales",
+          "Cidade": "JALES",
+          "Descrição": "Avenida Brasília, 934, Conj. Hab. José Antonio Caparroz Bogaz II, Jales, 15707-638",
+          "WKT": "POINT (-50.5569340 -20.2460395)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.556934,
+            -20.2460395
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jambeiro",
+          "Cidade": "JAMBEIRO",
+          "Descrição": "Rua Coronel Batista, 267, Centro, Jambeiro, 12270-000",
+          "WKT": "POINT (-45.6920847 -23.2574769)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.6920847,
+            -23.2574769
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jandira",
+          "Cidade": "JANDIRA",
+          "Descrição": "Rua Francisco de Araújo Chaves, 100, Jardim Europa, Jandira, 06626-020",
+          "WKT": "POINT (-46.9093720 -23.5406574)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.909372,
+            -23.5406574
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Jaú",
+          "Cidade": "JAÚ",
+          "Descrição": "Rua Quintino Bocaiúva, 532, Centro, Jaú, 17201-470",
+          "WKT": "POINT (-48.5602740 -22.2949695)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.560274,
+            -22.2949695
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "José Bonifácio",
+          "Cidade": "JOSÉ BONIFÁCIO",
+          "Descrição": "Avenida 9 de julho, 170, Centro, José Bonifácio, 15200-000",
+          "WKT": "POINT (-49.6908383 -21.0515570)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.6908383,
+            -21.051557
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Juquiá",
+          "Cidade": "JUQUIÁ",
+          "Descrição": "Rua 10 de Abril, 153, Parque Nacional, Juquiá, 11800-000",
+          "WKT": "POINT (-47.6356713 -24.3211269)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.6356713,
+            -24.3211269
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Juquitiba",
+          "Cidade": "JUQUITIBA",
+          "Descrição": "Avenida Tancredo de Almeida Neves, 1, Centro, Juquitiba, 06950-000",
+          "WKT": "POINT (-47.0695130 -23.9261389)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.069513,
+            -23.9261389
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Lagoinha",
+          "Cidade": "LAGOINHA",
+          "Descrição": "Rua Agostinho Ribeiro dos Santos, 230, Centro, Lagoinha, 12130-000",
+          "WKT": "POINT (-45.1896306 -23.0902178)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.1896306,
+            -23.0902178
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Laranjal Paulista",
+          "Cidade": "LARANJAL PAULISTA",
+          "Descrição": "Rua General Osório, 51, Centro, Laranjal Paulista, 18500-000",
+          "WKT": "POINT (-47.8359770 -23.0473763)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.835977,
+            -23.0473763
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Leme",
+          "Cidade": "LEME",
+          "Descrição": "Rua Emilio Violin, 194, Bela Vista, Leme, 13611-412",
+          "WKT": "POINT (-47.3804152 -22.1874801)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3804152,
+            -22.1874801
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Lençóis Paulista",
+          "Cidade": "LENÇÓIS PAULISTA",
+          "Descrição": "Avenida Lázaro Brigido Dutra, 2000, Jardim Ibaté, Lençóis Paulista, 18682-335",
+          "WKT": "POINT (-48.8024277 -22.6122810)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8024277,
+            -22.612281
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Limeira",
+          "Cidade": "LIMEIRA",
+          "Descrição": "Rua Tiradentes, 1366, Centro, Limeira, 13480-270",
+          "WKT": "POINT (-47.4080077 -22.5714371)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4080077,
+            -22.5714371
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Lins",
+          "Cidade": "LINS",
+          "Descrição": "Estrada Mario Covas Junior,  Km 01, Vila Guararapes, Lins, 16403-025",
+          "WKT": "POINT (-49.7522385 -21.6977723)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.7522385,
+            -21.6977723
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Lorena",
+          "Cidade": "LORENA",
+          "Descrição": "Avenida São José, 150, Vila Buck, Lorena, 12600-560",
+          "WKT": "POINT (-45.1225238 -22.7355780)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.1225238,
+            -22.735578
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Louveira",
+          "Cidade": "LOUVEIRA",
+          "Descrição": "Rua Pascoal Dinofre, 82, Santo Antonio, Louveira, 13290-000",
+          "WKT": "POINT (-46.9753568 -23.0823467)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9753568,
+            -23.0823467
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Lucélia",
+          "Cidade": "LUCÉLIA",
+          "Descrição": "Rua Eduardo Rapacci, 476, Centro, Lucélia, 17780-000",
+          "WKT": "POINT (-51.0235331 -21.7207624)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.0235331,
+            -21.7207624
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Luiz Antônio",
+          "Cidade": "LUIZ ANTÔNIO",
+          "Descrição": "Avenida Independência, 239, Centro, Luiz Antônio, 14210-000",
+          "WKT": "POINT (-47.7015053 -21.5530426)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7015053,
+            -21.5530426
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Macatuba",
+          "Cidade": "MACATUBA",
+          "Descrição": "Rua Julio Pintucci, 172, Centro, Macatuba, 17290-000",
+          "WKT": "POINT (-48.7122100 -22.5041980)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.71221,
+            -22.504198
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mairinque",
+          "Cidade": "MAIRINQUE",
+          "Descrição": "Avenida Gaspar Ricardo Junior, 172, Centro, Mairinque, 18120-000",
+          "WKT": "POINT (-47.1841666 -23.5462587)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.1841666,
+            -23.5462587
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mairiporã",
+          "Cidade": "MAIRIPORÃ",
+          "Descrição": "Avenida Tabelião Passarella, 850, Centro, Mairiporã, 07600-027",
+          "WKT": "POINT (-46.5903012 -23.3190621)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5903012,
+            -23.3190621
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Manduri",
+          "Cidade": "MANDURI",
+          "Descrição": "Rua Bahia, 263, Centro, Manduri, 18780-000",
+          "WKT": "POINT (-49.3203352 -23.0053513)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.3203352,
+            -23.0053513
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Maracaí",
+          "Cidade": "MARACAÍ",
+          "Descrição": "Rua Pedro de Toledo, 680, Centro, Maracaí, 19840-000",
+          "WKT": "POINT (-50.6688456 -22.6123753)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.6688456,
+            -22.6123753
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Marília",
+          "Cidade": "MARÍLIA",
+          "Descrição": "Avenida Monte Carmelo, 800, Fragata, Marília, 17519-030",
+          "WKT": "POINT (-49.9368902 -22.2267260)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.9368902,
+            -22.226726
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Martinópolis",
+          "Cidade": "MARTINÓPOLIS",
+          "Descrição": "Avenida Padre Mateus, 253, Vila Alegrete, Martinópolis, 19500-000",
+          "WKT": "POINT (-51.1690372 -22.1518523)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.1690372,
+            -22.1518523
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Matão",
+          "Cidade": "MATÃO",
+          "Descrição": "Rua Aquelino Benassi, 525, Jardim São José, Matão, 15996-034",
+          "WKT": "POINT (-48.3773595 -21.5899553)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.3773595,
+            -21.5899553
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mauá",
+          "Cidade": "MAUÁ",
+          "Descrição": "Rua São João, 876, Bom Recanto / Jardim Estrela, Mauá, 09340-480",
+          "WKT": "POINT (-46.4284449 -23.6749511)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4284449,
+            -23.6749511
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Miguelópolis",
+          "Cidade": "MIGUELOPOLIS",
+          "Descrição": "Avenida Rodolfo Jorge, 47, Centro, Miguelópolis, 14530-000",
+          "WKT": "POINT (-48.0285539 -20.1816278)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0285539,
+            -20.1816278
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mineiros Do Tietê",
+          "Cidade": "MINEIROS DO TIETÊ",
+          "Descrição": "Rua Municipal, 445, Centro, Mineiros Do Tietê, 17320-001",
+          "WKT": "POINT (-48.4520642 -22.4077218)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4520642,
+            -22.4077218
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Miracatu",
+          "Cidade": "MIRACATU",
+          "Descrição": "Rua Tenente José Públio Ribeiro, 73, Centro, Miracatu, 11850-000",
+          "WKT": "POINT (-47.4580416 -24.2822539)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4580416,
+            -24.2822539
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mirante Do Paranapanema",
+          "Cidade": "MIRANTE DO PARANAPANEMA",
+          "Descrição": "Avenida Joaquim Juca de Gois, 882, Centro, Mirante Do Paranapanema, 19260-000",
+          "WKT": "POINT (-51.9048817 -22.2981709)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.9048817,
+            -22.2981709
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mirassol",
+          "Cidade": "MIRASSOL",
+          "Descrição": "Rua Paulo de Faria, 2090, Santa Cruz, Mirassol, 15138-032",
+          "WKT": "POINT (-49.5021725 -20.8190720)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.5021725,
+            -20.819072
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mococa",
+          "Cidade": "MOCOCA",
+          "Descrição": "Avenida Dr. Américo Pereira Lima, 1, Jardim Lavinia, Mococa, 13736-260",
+          "WKT": "POINT (-47.0078912 -21.4718155)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.0078912,
+            -21.4718155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mogi Das Cruzes",
+          "Cidade": "MOGI DAS CRUZES",
+          "Descrição": "Rua Senador Dantas, 326, Centro, Mogi Das Cruzes, 08710-690",
+          "WKT": "POINT (-46.1918908 -23.5241584)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.1918908,
+            -23.5241584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mogi Mirim",
+          "Cidade": "MOGI MIRIM",
+          "Descrição": "Rua Professor Ferreira Lima, 1, Jardim Paulista, Mogi Mirim, 13806-630",
+          "WKT": "POINT (-46.9621908 -22.4379579)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9621908,
+            -22.4379579
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Mongaguá",
+          "Cidade": "MONGAGUÁ",
+          "Descrição": "Avenida Marina, 1335, Jardim Marina, Mongaguá, 11730-000",
+          "WKT": "POINT (-46.6291131 -24.0979497)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.6291131,
+            -24.0979497
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Monte Alto",
+          "Cidade": "MONTE ALTO",
+          "Descrição": "Praça da Bandeira, 43, Centro, Monte Alto, 15910-000",
+          "WKT": "POINT (-48.4953087 -21.2618815)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4953087,
+            -21.2618815
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Monte Azul Paulista",
+          "Cidade": "MONTE AZUL PAULISTA",
+          "Descrição": "Praça Embaixador Macedo Soares, 13, Centro, Monte Azul Paulista, 14730-000",
+          "WKT": "POINT (-48.6390755 -20.9072239)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.6390755,
+            -20.9072239
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Monte Mor",
+          "Cidade": "MONTE MOR",
+          "Descrição": "Avenida Benedito Lázaro Vieira, 1, Sítio Santo Antonio , Monte Mor, 13190-120",
+          "WKT": "POINT (-47.2948105 -22.9477312)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2948105,
+            -22.9477312
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Morro Agudo",
+          "Cidade": "MORRO AGUDO",
+          "Descrição": "Rua Barão do Rio Branco, 722, Centro, Morro Agudo, 14640-000",
+          "WKT": "POINT (-48.0551252 -20.7340382)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0551252,
+            -20.7340382
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Morungaba",
+          "Cidade": "MORUNGABA",
+          "Descrição": "Rua Araujo Campos, 953, Centro, Morungaba, 13260-000",
+          "WKT": "POINT (-46.7934618 -22.8833837)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7934618,
+            -22.8833837
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Motuca",
+          "Cidade": "MOTUCA",
+          "Descrição": "Rua São Luís, 121, Centro, Motuca, 14835-000",
+          "WKT": "POINT (-48.1523031 -21.5079967)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.1523031,
+            -21.5079967
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Murutinga Do Sul",
+          "Cidade": "MURUTINGA DO SUL",
+          "Descrição": "Rua Antonio Calestine, 316, Centro, Murutinga Do Sul, 16950-000",
+          "WKT": "POINT (-51.2790148 -20.9900891)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.2790148,
+            -20.9900891
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Nantes",
+          "Cidade": "NANTES",
+          "Descrição": "Rua Guarani, 1, Centro, Nantes, 19645-000",
+          "WKT": "POINT (-51.2400475 -22.6192645)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.2400475,
+            -22.6192645
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Narandiba",
+          "Cidade": "NARANDIBA",
+          "Descrição": "Rua Maria Conceição da Silva Cassiano, 499,, Narandiba, 19220-000",
+          "WKT": "POINT (-51.5228436 -22.4002816)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.5228436,
+            -22.4002816
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Natividade Da Serra",
+          "Cidade": "NATIVIDADE DA SERRA",
+          "Descrição": "Rua Professor Cesidio Ambrosi, 1, Centro, Natividade Da Serra, 12180-000",
+          "WKT": "POINT (-45.4455821 -23.3766053)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.4455821,
+            -23.3766053
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Nova Granada",
+          "Cidade": "NOVA GRANADA",
+          "Descrição": "Rua Júlio Frasson, 512, Estação, Nova Granada, 15440-000",
+          "WKT": "POINT (-49.3267491 -20.5435092)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.3267491,
+            -20.5435092
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Novais",
+          "Cidade": "NOVAIS",
+          "Descrição": "Rua José Cantareiro Serrano, 670, Centro, Novais, 15885-000",
+          "WKT": "POINT (-48.9192202 -20.9956281)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.9192202,
+            -20.9956281
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Novo Horizonte",
+          "Cidade": "NOVO HORIZONTE",
+          "Descrição": "Alameda Roberto Dela Togna, 1233, Vila Patti, Novo Horizonte, 14960-000",
+          "WKT": "POINT (-49.2278495 -21.4666900)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.2278495,
+            -21.46669
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Olímpia",
+          "Cidade": "OLÍMPIA",
+          "Descrição": "Rua Agostinho Custódio, 186, Jardim Leonor, Olímpia, 15400-000",
+          "WKT": "POINT (-48.8963021 -20.7402426)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8963021,
+            -20.7402426
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Orlândia",
+          "Cidade": "ORLÂNDIA",
+          "Descrição": "Rua 12, 2229, Centro, Orlândia, 14620-000",
+          "WKT": "POINT (-47.8815489 -20.7149463)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.8815489,
+            -20.7149463
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Osasco",
+          "Cidade": "OSASCO",
+          "Descrição": "Avenida Marechal Rondon, 263, Centro, Osasco, 06093-010",
+          "WKT": "POINT (-46.7811388 -23.5318213)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7811388,
+            -23.5318213
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ourinhos",
+          "Cidade": "OURINHOS",
+          "Descrição": "Avenida Vitalina Marcusso, 1400, Campus Universitário, Ourinhos, 19910-206",
+          "WKT": "POINT (-49.8961666 -22.9507677)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.8961666,
+            -22.9507677
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ouro Verde",
+          "Cidade": "OURO VERDE",
+          "Descrição": "Rua Pará, 10, Nova Esperança, Ouro Verde, 17920-000",
+          "WKT": "POINT (-51.6956081 -21.4836700)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.6956081,
+            -21.48367
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ouroeste",
+          "Cidade": "OUROESTE",
+          "Descrição": "Avenida dos Bandeirantes, 2050, Jardim Sarinha l, Ouroeste, 15685-000",
+          "WKT": "POINT (-50.3784029 -19.9920703)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.3784029,
+            -19.9920703
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pacaembu",
+          "Cidade": "PACAEMBU",
+          "Descrição": "Rua Amador Rodrigues, 349, Vila Peres, Pacaembu, 17860-000",
+          "WKT": "POINT (-51.2668223 -21.5637800)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.2668223,
+            -21.56378
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Palmares Paulista",
+          "Cidade": "PALMARES PAULISTA",
+          "Descrição": "Rua Duque de Caxias, 173, Ferraz, Palmares Paulista, 15828-000",
+          "WKT": "POINT (-48.7983439 -21.0822495)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.7983439,
+            -21.0822495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Palmital",
+          "Cidade": "PALMITAL",
+          "Descrição": "Rua José Florência, 385,, Palmital, 19973-148",
+          "WKT": "POINT (-50.2182664 -22.7922011)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.2182664,
+            -22.7922011
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Paraguaçu Paulista",
+          "Cidade": "PARAGUAÇU PAULISTA",
+          "Descrição": "Rua Prefeito Jaime Monteiro, 791, Centro, Paraguaçu Paulista, 19703-065",
+          "WKT": "POINT (-50.5829331 -22.4152062)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.5829331,
+            -22.4152062
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Paraibuna",
+          "Cidade": "PARAIBUNA",
+          "Descrição": "Rua Geraldo Santana, 55, Centro, Paraibuna, 12260-000",
+          "WKT": "POINT (-45.6610731 -23.3892813)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.6610731,
+            -23.3892813
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Paranapanema",
+          "Cidade": "PARANAPANEMA",
+          "Descrição": "Rua Elvira Maria de Jesus, 160,, Paranapanema, 18725-000",
+          "WKT": "POINT (-48.7272375 -23.3757857)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.7272375,
+            -23.3757857
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Parapuã",
+          "Cidade": "PARAPUA",
+          "Descrição": "Rua Alagoas, 376, Centro, Parapuã, 17730-000",
+          "WKT": "POINT (-50.7933255 -21.7764620)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.7933255,
+            -21.776462
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pardinho",
+          "Cidade": "PARDINHO",
+          "Descrição": "Rua Jurumil Sartori, 255,, Pardinho, 18640-000",
+          "WKT": "POINT (-48.3822620 -23.0806093)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.382262,
+            -23.0806093
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pariquera-Açu",
+          "Cidade": "PARIQUERA-AÇU",
+          "Descrição": "Rua Romeu Monti, 160, Centro, Pariquera-Açu, 11930-000",
+          "WKT": "POINT (-47.8807758 -24.7150536)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.8807758,
+            -24.7150536
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Paulistânia",
+          "Cidade": "PAULISTÂNIA",
+          "Descrição": "Rua Iderme Tenca Junior, 39,Centro, Paulistânia, 17150-000",
+          "WKT": "POINT (-43.1819148 -22.9070828)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -43.1819148,
+            -22.9070828
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Paulo De Faria",
+          "Cidade": "PAULO DE FARIA",
+          "Descrição": "Rua Joaquim Correa de Moraes, 730, Centro, Paulo De Faria, 15490-000",
+          "WKT": "POINT (-49.4036249 -20.0277253)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.4036249,
+            -20.0277253
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pederneiras",
+          "Cidade": "PEDERNEIRAS",
+          "Descrição": "Avenida Paulista, 377, Centro, Pederneiras, 17280-000",
+          "WKT": "POINT (-48.7766687 -22.3555490)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.7766687,
+            -22.355549
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pedreira",
+          "Cidade": "PEDREIRA",
+          "Descrição": "Rua João Lucio De Moraes, 270, Jardim Triunfo, Pedreira, 13920-000",
+          "WKT": "POINT (-46.8973427 -22.7196302)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8973427,
+            -22.7196302
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pedro De Toledo",
+          "Cidade": "PEDRO DE TOLEDO",
+          "Descrição": "Rua Vasconcelos, 335,, Pedro De Toledo, 11790-000",
+          "WKT": "POINT (-47.2395466 -24.2745502)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2395466,
+            -24.2745502
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Penápolis",
+          "Cidade": "PENÁPOLIS",
+          "Descrição": "Avenida Goiás, 448, Vila América, Penápolis, 16306-022",
+          "WKT": "POINT (-50.0799715 -21.4130303)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.0799715,
+            -21.4130303
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pereira Barreto",
+          "Cidade": "PEREIRA BARRETO",
+          "Descrição": "Rua Dermival Franceschi, 465, Lapa, Pereira Barreto, 15370-534",
+          "WKT": "POINT (-51.1045987 -20.6340637)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.1045987,
+            -20.6340637
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pereiras",
+          "Cidade": "PEREIRAS",
+          "Descrição": "Rua Carlos Muccini, 123, Jardim Silva, Pereiras, 18580-000",
+          "WKT": "POINT (-47.9723262 -23.0776355)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.9723262,
+            -23.0776355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Peruíbe",
+          "Cidade": "PERUÍBE",
+          "Descrição": "Avenida São João, 545, Centro, Peruíbe, 11750- 000",
+          "WKT": "POINT (-47.0000490 -24.3214646)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.000049,
+            -24.3214646
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Piacatu",
+          "Cidade": "PIACATU",
+          "Descrição": "Rua Antonio Gomes Jardim, 101, Jardim Brasília, Piacatu, 16230-000",
+          "WKT": "POINT (-50.6008454 -21.5883046)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.6008454,
+            -21.5883046
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pilar Do Sul",
+          "Cidade": "PILAR DO SUL",
+          "Descrição": "Avenida Antonio Lacerda, 160, Santa Cecília, Pilar Do Sul, 18185-000",
+          "WKT": "POINT (-47.7302889 -23.8061509)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7302889,
+            -23.8061509
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Piquete",
+          "Cidade": "PIQUETE",
+          "Descrição": "Praça Dom Pedro I, 130,, Piquete, 12620-000",
+          "WKT": "POINT (-45.1716232 -22.6169757)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.1716232,
+            -22.6169757
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Piracaia",
+          "Cidade": "PIRACAIA",
+          "Descrição": "Rua São Miguel, 200, Centro, Piracaia, 12970-000",
+          "WKT": "POINT (-46.3579081 -23.0558663)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3579081,
+            -23.0558663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Piracicaba",
+          "Cidade": "PIRACICABA",
+          "Descrição": "Rua Idalina, 314, Pauliceia, Piracicaba, 13424-140",
+          "WKT": "POINT (-47.6473047 -22.7456061)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.6473047,
+            -22.7456061
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pirajuí",
+          "Cidade": "PIRAJUÍ",
+          "Descrição": "Praça Doutor Pedro da Rocha Braga, 155, Centro, Pirajuí, 16600-041",
+          "WKT": "POINT (-49.4547036 -21.9929318)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.4547036,
+            -21.9929318
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pirapozinho",
+          "Cidade": "PIRAPOZINHO",
+          "Descrição": "Rua Luzanira Pereira, 110, Jardim das Flores, Pirapozinho, 19200-000",
+          "WKT": "POINT (-51.4982139 -22.2720142)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.4982139,
+            -22.2720142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pirassununga",
+          "Cidade": "PIRASSUNUNGA",
+          "Descrição": "Avenida Brasil, 1053, Vila Esperança, Pirassununga, 13635-104",
+          "WKT": "POINT (-47.4271736 -21.9718032)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4271736,
+            -21.9718032
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pitangueiras",
+          "Cidade": "PITANGUEIRAS",
+          "Descrição": "Rua Reinaldo Consoli, 35, Vila Caroni , Pitangueiras, 14750-000",
+          "WKT": "POINT (-48.2120304 -21.0042788)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.2120304,
+            -21.0042788
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Planalto",
+          "Cidade": "PLANALTO",
+          "Descrição": "Rua Luiz Cividanes Martinez, 967, Centro, Planalto, 15260-000",
+          "WKT": "POINT (-49.9274575 -21.0336270)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.9274575,
+            -21.033627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Poá",
+          "Cidade": "POÁ",
+          "Descrição": "Rua Prefeito Jorge Francisco Correa Allen, 325,, Poá, 08558-230",
+          "WKT": "POINT (-46.3460825 -23.5274043)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3460825,
+            -23.5274043
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pompéia",
+          "Cidade": "POMPÉIA",
+          "Descrição": "Rua Epaminondas de Toledo Pizza, 1, Bairro Flandria, Pompéia, 17580-000",
+          "WKT": "POINT (-50.1719845 -22.1070175)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.1719845,
+            -22.1070175
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pontal",
+          "Cidade": "PONTAL",
+          "Descrição": "Rua João Totti, 824, Res. Village Tropical, Pontal, 14180-000",
+          "WKT": "POINT (-48.0443944 -21.0285637)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0443944,
+            -21.0285637
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Porangaba",
+          "Cidade": "PORANGABA",
+          "Descrição": "Av. Ver. José Maciel de Arruda, 500, Bairro dos Nunes, Porangaba, 18260-000",
+          "WKT": "POINT (-48.1143931 -23.1727430)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.1143931,
+            -23.172743
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Porto Feliz",
+          "Cidade": "PORTO FELIZ",
+          "Descrição": "Rua Cônego Belloti , 188,, Porto Feliz, 18540-000",
+          "WKT": "POINT (-47.5219412 -23.2155919)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5219412,
+            -23.2155919
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Porto Ferreira",
+          "Cidade": "PORTO FERREIRA",
+          "Descrição": "Avenida Engenheiro Nicolau de Vergueiro Forjaz, 860, Centro, Porto Ferreira, 13660-005",
+          "WKT": "POINT (-47.4833637 -21.8513722)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4833637,
+            -21.8513722
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Potim",
+          "Cidade": "POTIM",
+          "Descrição": "Rua Rio Grande do Sul, 45, Jardim Alvorada, Potim, 12525-000",
+          "WKT": "POINT (-45.2555951 -22.8385626)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.2555951,
+            -22.8385626
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pradópolis",
+          "Cidade": "PRADÓPOLIS",
+          "Descrição": "Rua Presidente Vargas, 500, Centro, Pradópolis, 14850-000",
+          "WKT": "POINT (-48.0721382 -21.3621162)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0721382,
+            -21.3621162
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Praia Grande",
+          "Cidade": "PRAIA GRANDE",
+          "Descrição": "Rua Jau, 1158, Boqueirão, Praia Grande, 11701- 190",
+          "WKT": "POINT (-46.4145680 -24.0101634)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.414568,
+            -24.0101634
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Pratânia",
+          "Cidade": "PRATANIA",
+          "Descrição": "Rua Irineu Pimentel, 1, Centro, Pratânia, 13625-500",
+          "WKT": "POINT (-48.6653670 -22.8122240)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.665367,
+            -22.812224
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Presidente Bernardes",
+          "Cidade": "PRESIDENTE BERNARDES",
+          "Descrição": "Rua Arthur Hideki Yanai, 83, Vila Ocidente, Presidente Bernardes, 19300-000",
+          "WKT": "POINT (-51.5572599 -22.0089908)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.5572599,
+            -22.0089908
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Presidente Epitácio",
+          "Cidade": "PRESIDENTE EPITÁCIO",
+          "Descrição": "Rua Antonio Venancio Lopes, 881,, Presidente Epitácio, 19470-000",
+          "WKT": "POINT (-52.1136565 -21.7712015)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -52.1136565,
+            -21.7712015
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Presidente Prudente",
+          "Cidade": "PRESIDENTE PRUDENTE",
+          "Descrição": "Avenida Comendador Alberto Bonfiglioli, 2700, Jardim Itaipu, Presidente Prudente, 19063-390",
+          "WKT": "POINT (-51.4475092 -22.1340007)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.4475092,
+            -22.1340007
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Presidente Venceslau",
+          "Cidade": "PRESIDENTE VENCESLAU",
+          "Descrição": "Avenida Dom Pedro II, 787, Centro, Presidente Venceslau, 19400-000",
+          "WKT": "POINT (-51.8493839 -21.8758118)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.8493839,
+            -21.8758118
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Quatá",
+          "Cidade": "QUATÁ",
+          "Descrição": "Avenida Dr. Rodolpho Sebastião Giorgi, 224, Centro, Quatá, 19780-003",
+          "WKT": "POINT (-50.6966807 -22.2519615)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.6966807,
+            -22.2519615
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Queluz",
+          "Cidade": "QUELUZ",
+          "Descrição": "Praça Padre Francisco das Chagas Lima, 168, Alto da Igreja, Queluz, 12800-000",
+          "WKT": "POINT (-44.7734825 -22.5387059)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.7734825,
+            -22.5387059
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Quintana",
+          "Cidade": "QUINTANA",
+          "Descrição": "Avenida Santa Amélia, 647, Centro, Quintana, 17670-000",
+          "WKT": "POINT (-50.3091421 -22.0731815)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.3091421,
+            -22.0731815
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Rancharia",
+          "Cidade": "RANCHARIA",
+          "Descrição": "Rua Marcílio Dias, 440, Centro, Rancharia, 19600- 000",
+          "WKT": "POINT (-50.8917159 -22.2271026)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.8917159,
+            -22.2271026
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Redenção Da Serra",
+          "Cidade": "REDENÇÃO DA SERRA",
+          "Descrição": "Avenida 9 de Julho, 60, Centro, Redenção Da Serra, 12170-000",
+          "WKT": "POINT (-45.5387428 -23.2845105)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.5387428,
+            -23.2845105
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Reginópolis",
+          "Cidade": "REGINÓPOLIS",
+          "Descrição": "Rua Padre Moises de Miranda, 645, Centro, Reginópolis, 17190-000",
+          "WKT": "POINT (-49.2232598 -21.8902345)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.2232598,
+            -21.8902345
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Restinga",
+          "Cidade": "RESTINGA",
+          "Descrição": "Rua José Luis Ferraciole, 296,, Restinga, 14430-000",
+          "WKT": "POINT (-47.4781386 -20.5981113)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4781386,
+            -20.5981113
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ribeira",
+          "Cidade": "RIBEIRA",
+          "Descrição": "Rua Antônio Ciola, 211, Centro, Ribeira, 18380- 000",
+          "WKT": "POINT (-49.0072644 -24.6584148)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.0072644,
+            -24.6584148
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ribeirão Bonito",
+          "Cidade": "RIBEIRÃO BONITO",
+          "Descrição": "Avenida Afonso Celestino, 44, Jardim Centenário, Ribeirão Bonito, 13580-000",
+          "WKT": "POINT (-48.1842660 -22.0619907)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.184266,
+            -22.0619907
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ribeirão Corrente",
+          "Cidade": "RIBEIRÃO CORRENTE",
+          "Descrição": "R. Mal. Deodoro da Fonseca, 815, Centro, Ribeirão Corrente, 14445-000",
+          "WKT": "POINT (-47.5914143 -20.4635033)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5914143,
+            -20.4635033
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ribeirão Pires",
+          "Cidade": "RIBEIRÃO PIRES",
+          "Descrição": "Rua dos Autonomistas, 126, Jardim Itacolomy, Ribeirão Pires, 09402-520",
+          "WKT": "POINT (-46.4184711 -23.7072983)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4184711,
+            -23.7072983
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ribeirão Preto",
+          "Cidade": "RIBEIRÃO PRETO",
+          "Descrição": "Rua Alvares Cabral, 629, Centro, Ribeirão Preto, 14015-050",
+          "WKT": "POINT (-47.8111148 -21.1764681)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.8111148,
+            -21.1764681
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Rincão",
+          "Cidade": "RINCÃO",
+          "Descrição": "Avenida Dib Tede, 1, Jardim Bela Vista, Rincão, 14830-000",
+          "WKT": "POINT (-48.0741854 -21.5880355)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0741854,
+            -21.5880355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Rinópolis",
+          "Cidade": "RINOPOLIS",
+          "Descrição": "Rua José Bonifácio, 316, Centro, Rinópolis, 17740-000",
+          "WKT": "POINT (-50.7240538 -21.7270950)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.7240538,
+            -21.727095
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Rio Claro",
+          "Cidade": "RIO CLARO",
+          "Descrição": "Rua Seis, 676, Centro, Rio Claro, 13501-600",
+          "WKT": "POINT (-47.5610988 -22.4142468)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5610988,
+            -22.4142468
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Rio Das Pedras",
+          "Cidade": "RIO DAS PEDRAS",
+          "Descrição": "Avenida Adhemar de Barros, 520, Centro, Rio Das Pedras, 13390-007",
+          "WKT": "POINT (-47.6022825 -22.8425578)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.6022825,
+            -22.8425578
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Riolândia",
+          "Cidade": "RIOLÂNDIA",
+          "Descrição": "Rua 14, 667, Centro, Riolândia, 15495-000",
+          "WKT": "POINT (-49.6789741 -19.9797269)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.6789741,
+            -19.9797269
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Rosana",
+          "Cidade": "ROSANA",
+          "Descrição": "Rua São Paulo, 399, Primavera, Rosana, 19274- 000",
+          "WKT": "POINT (-52.9599032 -22.5360206)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -52.9599032,
+            -22.5360206
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sales",
+          "Cidade": "SALES",
+          "Descrição": "Rua Cesário José de Castilho, 1, Centro, Sales, 14980-000",
+          "WKT": "POINT (-49.4968085 -21.3437618)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.4968085,
+            -21.3437618
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Salesópolis",
+          "Cidade": "SALESÓPOLIS",
+          "Descrição": "Rua XV de Novembro, 1070, Centro, Salesópolis, 08970-000",
+          "WKT": "POINT (-45.8537308 -23.5302436)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.8537308,
+            -23.5302436
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Saltinho",
+          "Cidade": "SALTINHO",
+          "Descrição": "Avenida 7 de Setembro, 1897, Centro, Saltinho, 13440-013",
+          "WKT": "POINT (-47.6763058 -22.8476795)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.6763058,
+            -22.8476795
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Salto",
+          "Cidade": "SALTO",
+          "Descrição": "Avenida Dom Pedro II, 826, Centro, Salto, 13320- 240",
+          "WKT": "POINT (-47.2958645 -23.2024062)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2958645,
+            -23.2024062
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Salto De Pirapora",
+          "Cidade": "SALTO DE PIRAPORA",
+          "Descrição": "Rua Ged Nicolau Hage, 65, Centro, Salto De Pirapora, 18160-000",
+          "WKT": "POINT (-47.5735727 -23.6448815)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5735727,
+            -23.6448815
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sandovalina",
+          "Cidade": "SANDOVALINA",
+          "Descrição": "Rua João Alves dos Santos, 491, Centro, Sandovalina, 19250-000",
+          "WKT": "POINT (-51.7652930 -22.4531554)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.765293,
+            -22.4531554
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Adelia",
+          "Cidade": "SANTA ADELIA",
+          "Descrição": "Rua Prudente de Moraes, 876, Cohab, Santa Adelia, 15950-000",
+          "WKT": "POINT (-48.7968025 -21.2405335)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.7968025,
+            -21.2405335
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Bárbara D’Oeste",
+          "Cidade": "SANTA BÁRBARA D’OESTE",
+          "Descrição": "Rua Gen. Couto Magalhães, 215, Cohab 31 de Março, Santa Bárbara D’Oeste, 13453-135",
+          "WKT": "POINT (-47.4052019 -22.7371904)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4052019,
+            -22.7371904
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Branca",
+          "Cidade": "SANTA BRANCA",
+          "Descrição": "Avenida Brigadeiro Aguiar, 508, Centro, Santa Branca, 12380-000",
+          "WKT": "POINT (-45.8893579 -23.3944544)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.8893579,
+            -23.3944544
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Cruz Da Conceição",
+          "Cidade": "SANTA CRUZ DA CONCEICAO",
+          "Descrição": "Rua Paschoal Ganéo, 1267, Centro, Santa Cruz Da Conceição, 13625-000",
+          "WKT": "POINT (-47.4523243 -22.1344907)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4523243,
+            -22.1344907
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Cruz Da Esperança",
+          "Cidade": "SANTA CRUZ DA ESPERANÇA",
+          "Descrição": "Rua Horácio Roberto do Nascimento, 738, Centro, Santa Cruz Da Esperança, 14250-000",
+          "WKT": "POINT (-47.4333900 -21.2914013)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.43339,
+            -21.2914013
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Cruz Das Palmeiras",
+          "Cidade": "SANTA CRUZ DAS PALMEIRAS",
+          "Descrição": "Avenida do Café, 720, Centro, Santa Cruz Das Palmeiras, 13650-000",
+          "WKT": "POINT (-47.2522704 -21.8270735)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2522704,
+            -21.8270735
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Cruz Do Rio Pardo",
+          "Cidade": "SANTA CRUZ DO RIO PARDO",
+          "Descrição": "Av. Santos Dumont, 358, Conj. Hab. Frei Jose Maria Lorenzetti, Santa Cruz Do Rio Pardo, 13650-013",
+          "WKT": "POINT (-49.6108404 -22.9131949)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.6108404,
+            -22.9131949
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Gertrudes",
+          "Cidade": "SANTA GERTRUDES",
+          "Descrição": "Rua Cordeirópolis, 175, Jardim Paulista, Santa Gertrudes, 13510-000",
+          "WKT": "POINT (-47.5421594 -22.4450644)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5421594,
+            -22.4450644
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Isabel",
+          "Cidade": "SANTA ISABEL",
+          "Descrição": "Rua das Rosas, 780, Jardim Novo Éden, Santa Isabel, 07500-000",
+          "WKT": "POINT (-46.2294395 -23.3387429)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.2294395,
+            -23.3387429
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santa Rosa do Viterbo",
+          "Cidade": "SANTA ROSA DO VITERBO",
+          "Descrição": "Rua Albina Pedreschi, 365, Residencial Luiz Gonzaga, Santa Rosa do Viterbo, 14270-000",
+          "WKT": "POINT (-47.3694698 -21.4784978)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.3694698,
+            -21.4784978
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santana De Parnaíba",
+          "Cidade": "SANTANA DE PARNAÍBA",
+          "Descrição": "Rua Verona, 19, Jardim Isaura, Santana De Parnaíba, 06516-070",
+          "WKT": "POINT (-46.8907687 -23.4822892)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8907687,
+            -23.4822892
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santo Anastácio",
+          "Cidade": "SANTO ANASTÁCIO",
+          "Descrição": "Rua Engenheiro Maylask, 156, Centro, Santo Anastácio, 19360-000",
+          "WKT": "POINT (-51.6610842 -21.9753688)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.6610842,
+            -21.9753688
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santo André",
+          "Cidade": "SANTO ANDRÉ",
+          "Descrição": "Estrada Cata Preta, 810, Vila João Ramalho, Santo André, 09170-000",
+          "WKT": "POINT (-46.5090798 -23.7121659)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5090798,
+            -23.7121659
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santo Antônio Da Alegria",
+          "Cidade": "SANTO ANTÔNIO DA ALEGRIA",
+          "Descrição": "Rua Nove de Julho, 1100, Centro, Santo Antônio Da Alegria, 14390-000",
+          "WKT": "POINT (-47.1549850 -21.0906337)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.154985,
+            -21.0906337
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santópolis Do Aguapeí",
+          "Cidade": "SANTÓPOLIS DO AGUAPEÍ",
+          "Descrição": "Rua Clarinda Rosa Neto, 612, Centro, Santópolis Do Aguapeí, 16240-000",
+          "WKT": "POINT (-50.4991980 -21.6385015)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.499198,
+            -21.6385015
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Santos",
+          "Cidade": "SANTOS",
+          "Descrição": "Rua Sete de Setembro, 34, Vila Nova, Santos, 11013-350",
+          "WKT": "POINT (-46.3237392 -23.9402101)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3237392,
+            -23.9402101
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Bernardo Do Campo",
+          "Cidade": "SÃO BERNARDO DO CAMPO",
+          "Descrição": "Avenida Dom Jaime de Barros Câmara, 201, Planalto, São Bernardo Do Campo, 09895-400",
+          "WKT": "POINT (-46.5641571 -23.7086988)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5641571,
+            -23.7086988
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Caetano Do Sul",
+          "Cidade": "SÃO CAETANO DO SUL",
+          "Descrição": "Rua Tapajós, 300, Barcelona, São Caetano Do Sul, 09550-051",
+          "WKT": "POINT (-46.5506079 -23.6214758)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5506079,
+            -23.6214758
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Carlos",
+          "Cidade": "SÃO CARLOS",
+          "Descrição": "Rua São Sebastião, 2828, Vila Nery, São Carlos, 13560-230",
+          "WKT": "POINT (-47.8826080 -22.0132677)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.882608,
+            -22.0132677
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São João Da Boa Vista",
+          "Cidade": "SÃO JOÃO DA BOA VISTA",
+          "Descrição": "Avenida João Osório , 825, Vila Conrado, São João Da Boa Vista, 13870-251",
+          "WKT": "POINT (-46.7951352 -21.9830534)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7951352,
+            -21.9830534
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São José Do Barreiro",
+          "Cidade": "SÃO JOSÉ DO BARREIRO",
+          "Descrição": "Av. Fortunato Lobao, , Centro, São José Do Barreiro, 12830-000",
+          "WKT": "POINT (-44.5829460 -22.6436276)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -44.582946,
+            -22.6436276
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São José Do Rio Pardo",
+          "Cidade": "SÃO JOSÉ DO RIO PARDO",
+          "Descrição": "Rua Jorge Tibiriça, 451, Centro, São José Do Rio Pardo, 13720-000",
+          "WKT": "POINT (-46.8930294 -21.6001532)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.8930294,
+            -21.6001532
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São José Do Rio Preto",
+          "Cidade": "SÃO JOSÉ DO RIO PRETO",
+          "Descrição": "Rua General Glicério, 3947, Vila Imperial, São José Do Rio Preto, 15015-400",
+          "WKT": "POINT (-49.3878070 -20.8169124)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.387807,
+            -20.8169124
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEFE",
+          "Cidade": "SÃO JOSÉ DOS CAMPOS",
+          "Descrição": "Avenida Olivo Gomes, 250, Santana, São José Dos Campos, 12211-115",
+          "WKT": "POINT (-45.8904902 -23.1700989)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.8904902,
+            -23.1700989
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Parque Tecnológico",
+          "Cidade": "SÃO JOSÉ DOS CAMPOS",
+          "Descrição": "Avenida Doutor Altino Bondensan, 500, Distrito de Eugênio de Melo, São José Dos Campos, 12247-016",
+          "WKT": "POINT (-45.7845189 -23.1519999)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.7845189,
+            -23.1519999
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Francisco Xavier",
+          "Cidade": "SÃO JOSÉ DOS CAMPOS",
+          "Descrição": "Estrada Municipal Vereador Pedro David, 19251, Zona Rural, São José Dos Campos, 12249-000",
+          "WKT": "POINT (-45.9206290 -22.9512750)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.920629,
+            -22.951275
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Lourenço Da Serra",
+          "Cidade": "SÃO LOURENÇO DA SERRA",
+          "Descrição": "Rua João Alfredo de Moraes, 386, Centro, São Lourenço Da Serra, 06890-000",
+          "WKT": "POINT (-46.9457041 -23.8552629)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9457041,
+            -23.8552629
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Luiz Do Paraitinga",
+          "Cidade": "SÃO LUIZ DO PARAITINGA",
+          "Descrição": "Avenida Celestino Campos Coelho, 71, Centro, São Luiz Do Paraitinga, 12140-000",
+          "WKT": "POINT (-45.3107792 -23.2200871)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.3107792,
+            -23.2200871
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Miguel Arcanjo",
+          "Cidade": "SÃO MIGUEL ARCANJO",
+          "Descrição": "Avenida dos Viticultores, 665, Jardim Pica Pau, São Miguel Arcanjo, 18230-000",
+          "WKT": "POINT (-47.9887466 -23.8883761)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.9887466,
+            -23.8883761
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Água Azul",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida dos Metalúrgicos, 1262, Cidade Tiradentes, São Paulo, 08471-000",
+          "WKT": "POINT (-46.4067560 -23.5938561)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.406756,
+            -23.5938561
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Alto Alegre",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Bento Guelfi, 1802, Jardim Laranjeira, São Paulo, 08381-001",
+          "WKT": "POINT (-46.4268225 -23.6091746)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4268225,
+            -23.6091746
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Alvarenga",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Estrada do Alvarenga, 3752, Balneário São Francisco, São Paulo, 04474-340",
+          "WKT": "POINT (-46.6448734 -23.7044825)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.6448734,
+            -23.7044825
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Aricanduva",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Olga Fadel Abarca, 1, Jardim Santa Terezinha, São Paulo, 03572-020",
+          "WKT": "POINT (-46.5025204 -23.5699796)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5025204,
+            -23.5699796
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Azul Da Cor Do Mar",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Ernesto Souza Cruz, 2171, Cidade Antonio Estevão de Carvalho, São Paulo, 08225- 380",
+          "WKT": "POINT (-46.4564299 -23.5212494)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4564299,
+            -23.5212494
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Butantã",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Engenheiro Heitor Antônio Eiras Garcia, 1870, Jardim Esmeralda, São Paulo, 05588-001",
+          "WKT": "POINT (-46.7495826 -23.5823242)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7495826,
+            -23.5823242
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Caminho Do Mar",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Engenheiro Armando de Arruda Pereira, 5241, Jardim Lourdes, São Paulo, 04325-001",
+          "WKT": "POINT (-46.6351610 -23.6679585)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.635161,
+            -23.6679585
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Campo Limpo",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Carlos Lacerda, 678, Pirajussara, São Paulo, 05789-000",
+          "WKT": "POINT (-46.7802000 -23.6375968)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7802,
+            -23.6375968
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Cantos do Amanhecer",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Cantos do Amahecer, 1, Jardim Eledy, São Paulo, 05856-020",
+          "WKT": "POINT (-46.7847793 -23.6500970)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7847793,
+            -23.650097
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Capão Redondo",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Daniel Gran , 1, Jardim Modelo, São Paulo, 05867-380",
+          "WKT": "POINT (-46.7683031 -23.6737177)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7683031,
+            -23.6737177
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Carrão",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Monte Serrat, 230, Tatuapé, São Paulo, 03312- 000",
+          "WKT": "POINT (-46.5621331 -23.5407185)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5621331,
+            -23.5407185
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Casa Blanca",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua João Damasceno, 85, Vila das Belezas, São Paulo, 05841-160",
+          "WKT": "POINT (-46.7438824 -23.6470111)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7438824,
+            -23.6470111
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Cidade Dutra",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Interlagos, 7350, Interlagos, São Paulo, 04777-000",
+          "WKT": "POINT (-46.7044580 -23.7108747)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.704458,
+            -23.7108747
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Feitiço da Vila",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Feitiço da Vila, 399, Chácara Santa Maria, São Paulo, 05879-000",
+          "WKT": "POINT (-46.7946250 -23.6865230)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.794625,
+            -23.686523
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Formosa",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Sargento Claudiner Evaristo Dias, 10, Parque Santo Antonio, São Paulo, 03385-150",
+          "WKT": "POINT (-46.5237837 -23.5803519)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5237837,
+            -23.5803519
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Freguesia do Ó",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Deputado Emílio Carlos, 3871, Limão, São Paulo, 02720-200",
+          "WKT": "POINT (-46.6688929 -23.4750814)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.6688929,
+            -23.4750814
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Guarapiranga",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Estrada da Baronesa, 1120, Jardim Kagohara, São Paulo, 04941-175",
+          "WKT": "POINT (-46.7655936 -23.6968612)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7655936,
+            -23.6968612
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Heliópolis",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Estrada das Lágrimas , 2385, São João Clímaco, São Paulo, 04244-000",
+          "WKT": "POINT (-46.5903965 -23.6218736)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5903965,
+            -23.6218736
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Inácio Monteiro",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Barão Barroso do Amazonas, 1, Conjunto Inácio Monteiro, São Paulo, 08472-721",
+          "WKT": "POINT (-46.4107214 -23.5681979)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4107214,
+            -23.5681979
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Jaçanã",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Francisca Espósito Tonetti, 105, Jaçanã, São Paulo, 02276-010",
+          "WKT": "POINT (-46.5838452 -23.4573769)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5838452,
+            -23.4573769
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Jaguaré",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Keikiti Simomoto, 80, Jaguaré, São Paulo, 05347-010",
+          "WKT": "POINT (-46.7392446 -23.5518437)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7392446,
+            -23.5518437
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Jambeiro",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida José Pinheiro Borges, 60, Guaianases, São Paulo, 08420-092",
+          "WKT": "POINT (-46.4261844 -23.5364854)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4261844,
+            -23.5364854
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Jardim Paulistano",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Aparecida do Taboado, 1, Jardim Paulistano, São Paulo, 02814-000",
+          "WKT": "POINT (-46.7038446 -23.4560624)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7038446,
+            -23.4560624
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Lajeado",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Manoel da Mota Coutinho, 293, Lajeado, São Paulo, 08451-420",
+          "WKT": "POINT (-46.4003324 -23.5442869)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4003324,
+            -23.5442869
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Meninos",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Barbinos, 111, São João Climaco, São Paulo, 04240-110",
+          "WKT": "POINT (-46.5855474 -23.6211240)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5855474,
+            -23.621124
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Navegantes",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Maria Moassab Barbour, 1, Cantinho do Céu, São Paulo, 04849-503",
+          "WKT": "POINT (-46.6607280 -23.7426870)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.660728,
+            -23.742687
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Paraisópolis",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Dr. José Augusto de Souza e Silva, 1, Jardim Parque Morumbi, São Paulo, 05712-040",
+          "WKT": "POINT (-46.7317447 -23.6197056)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7317447,
+            -23.6197056
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Parelheiros",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua José Pedro de Borba, 20, Jardim Novo Parelheiros, São Paulo, 04890-090",
+          "WKT": "POINT (-46.7241212 -23.8284719)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7241212,
+            -23.8284719
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Parque Anhanguera",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Pedro José de Lima, 1020, Jardim Anhanguera, São Paulo, 05267-174",
+          "WKT": "POINT (-46.7879453 -23.4400536)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7879453,
+            -23.4400536
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Parque Bristol",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Prof. Artur Primavesi, 1, Parque Bristol, São Paulo, 04177-070",
+          "WKT": "POINT (-46.6070940 -23.6418965)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.607094,
+            -23.6418965
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Parque Do Carmo",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Afonso Sampaio e Souza, 2001, Itaquera, São Paulo, 08270-001",
+          "WKT": "POINT (-46.4806246 -23.5779772)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4806246,
+            -23.5779772
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Parque Novo Mundo",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Ernesto Augusto Lopes, 100, Parque Vila Mari, São Paulo, 02169-030",
+          "WKT": "POINT (-46.5752221 -23.5179220)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5752221,
+            -23.517922
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Parque São Carlos",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Clarear, 643, Jardim São Carlos, São Paulo, 08062-590",
+          "WKT": "POINT (-46.4738336 -23.5097710)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4738336,
+            -23.509771
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Parque Veredas",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Daniel Muller, 347, Itaim Paulista, São Paulo, 08141-290",
+          "WKT": "POINT (-46.3898958 -23.5132857)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3898958,
+            -23.5132857
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Paz",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Daniel Cerri, 1549, Jardim Paraná, São Paulo, 02879-140",
+          "WKT": "POINT (-46.6887195 -23.4481102)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.6887195,
+            -23.4481102
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Pera Marmelo",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Rua Pera Marmelo, 226, Jaraguá, São Paulo, 05185-420",
+          "WKT": "POINT (-46.7501539 -23.4366940)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7501539,
+            -23.436694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Perus",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Bernardo José de Lorena, 1, Vila Fanton, São Paulo, 05203-200",
+          "WKT": "POINT (-46.7501758 -23.4068565)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7501758,
+            -23.4068565
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Pinheirinho",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Camilo Zanotti, 1, Jaraguá, São Paulo, 02998-080",
+          "WKT": "POINT (-46.7330564 -23.4367691)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7330564,
+            -23.4367691
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Quinta do Sol",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Luíz Imparato, 564, Vila Cisper, São Paulo, 03819-160",
+          "WKT": "POINT (-46.4962695 -23.4990310)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4962695,
+            -23.499031
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Rosa da China",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Clara Petrela, 113, Jardim São Roberto, São Paulo, 03978-500",
+          "WKT": "POINT (-46.5011468 -23.6219227)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5011468,
+            -23.6219227
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU São Mateus",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Curumatim, 201, Parque Boa Esperança, São Paulo, 08341-240",
+          "WKT": "POINT (-46.4493164 -23.6025639)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4493164,
+            -23.6025639
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU São Pedro",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Professora Lucila Cerqueira, 194, Jardim São Pedro, São Paulo, 08420-690",
+          "WKT": "POINT (-46.4278376 -23.5473256)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4278376,
+            -23.5473256
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU São Rafael",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Cinira Polônio, 100, Conjunto Promorar Rio Claro, São Paulo, 08395-320",
+          "WKT": "POINT (-46.4563965 -23.6203367)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4563965,
+            -23.6203367
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Sapopemba",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Manuel Quirino de Mattos, 1, Jardim Sapopemba, São Paulo, 03969-000",
+          "WKT": "POINT (-46.5013611 -23.6110166)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5013611,
+            -23.6110166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Tiquatira",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Condessa Elizabeth de Robiano, 5280, Penha , São Paulo, 03704-000",
+          "WKT": "POINT (-46.5543914 -23.5175446)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5543914,
+            -23.5175446
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Três Lagos",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Maria Moura da Conceição, 1, Jardim Belcito, São Paulo, 04855-257",
+          "WKT": "POINT (-46.6814021 -23.7670576)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.6814021,
+            -23.7670576
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Uirapuru",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Nazir Miguel, 849, Jardim João VI, São Paulo, 05570-030",
+          "WKT": "POINT (-46.7890422 -23.6007130)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7890422,
+            -23.600713
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Vila Atlantica",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Coronel José Venâncio Dias, 840, Jardim Jaraguá, São Paulo, 05160-030",
+          "WKT": "POINT (-46.7626048 -23.4819974)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7626048,
+            -23.4819974
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Vila Curuçá",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida Marechal Tito, 3452, Itaim Paulista, São Paulo, 08160-495",
+          "WKT": "POINT (-46.4122963 -23.4950351)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4122963,
+            -23.4950351
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Vila Do Sol",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Avenida dos Funcionários Públicos, 369, Jardim Vera Cruz - Distrito do Jardim Angela, São Paulo, 04962-000",
+          "WKT": "POINT (-46.7808053 -23.7355667)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7808053,
+            -23.7355667
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Vila Rubi",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Domingos Tarroso, 101, Vila Rubi, São Paulo, 04823-090",
+          "WKT": "POINT (-46.6972109 -23.7279573)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.6972109,
+            -23.7279573
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Pedro",
+          "Cidade": "SÃO PEDRO",
+          "Descrição": "Rua Jorge de Toledo, 336, Jardim Cassio Paschoal Padovani, São Pedro, 13520-000",
+          "WKT": "POINT (-47.9011565 -22.5599433)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.9011565,
+            -22.5599433
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Pedro Do Turvo",
+          "Cidade": "SÃO PEDRO DO TURVO",
+          "Descrição": "Rua Garcia Braga, 196, Centro, São Pedro Do Turvo, 18940-000",
+          "WKT": "POINT (-49.7388975 -22.7504148)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.7388975,
+            -22.7504148
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Roque",
+          "Cidade": "SAO ROQUE",
+          "Descrição": "Rua José Henrique da Costa, 252,, São Roque, 18134-190",
+          "WKT": "POINT (-47.1300644 -23.5221426)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.1300644,
+            -23.5221426
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Sebastião",
+          "Cidade": "SÃO SEBASTIÃO",
+          "Descrição": "Rua Rita Orselli, 161, Vila Amélia, São Sebastião, 11609-009",
+          "WKT": "POINT (-45.4110955 -23.8171989)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.4110955,
+            -23.8171989
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "São Simão",
+          "Cidade": "SÃO SIMÃO",
+          "Descrição": "Rua Bandeira Villela, 414, Centro, São Simão, 14200-000",
+          "WKT": "POINT (-47.5517277 -21.4774455)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5517277,
+            -21.4774455
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Insular",
+          "Cidade": "SÃO VICENTE",
+          "Descrição": "Rua José Bonifácio, 404, Centro, São Vicente, 11370-070",
+          "WKT": "POINT (-46.3862060 -23.9681558)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.386206,
+            -23.9681558
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Quarentenário",
+          "Cidade": "SÃO VICENTE",
+          "Descrição": "Rua Perpétua Oliveira Freitas, 269, Jardim Quarentenário, São Vicente, 11347-520",
+          "WKT": "POINT (-46.4792906 -23.9776880)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.4792906,
+            -23.977688
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sarapuí",
+          "Cidade": "SARAPUÍ",
+          "Descrição": "Rua Dr Julio Prestes, 785, Vila Ana Maria, Sarapuí, 18225-000",
+          "WKT": "POINT (-47.8264971 -23.6400451)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.8264971,
+            -23.6400451
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sebastianópolis Do Sul",
+          "Cidade": "SEBASTIANOPOLIS DO SUL",
+          "Descrição": "Rua Albino Savione, 605, Centro, Sebastianópolis Do Sul, 15180-000",
+          "WKT": "POINT (-49.9208366 -20.6602811)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.9208366,
+            -20.6602811
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Serra negra",
+          "Cidade": "SERRA NEGRA",
+          "Descrição": "Rua Santa Carolina, 33, Palmeiras, Serra negra, 13930-000",
+          "WKT": "POINT (-46.7049582 -22.5964556)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7049582,
+            -22.5964556
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Serrana",
+          "Cidade": "SERRANA",
+          "Descrição": "Rua Santa Cruz, 1725,, Serrana, 14150-000",
+          "WKT": "POINT (-47.5970007 -21.2008340)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.5970007,
+            -21.200834
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sertãozinho",
+          "Cidade": "SERTÃOZINHO",
+          "Descrição": "Rua Osvaldo Bertuso, 126, Conjunto Habitacional Antônio Nadaletto Mazzer, Sertãozinho, 14177- 082",
+          "WKT": "POINT (-48.0037762 -21.1362720)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.0037762,
+            -21.136272
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sete Barras",
+          "Cidade": "SETE BARRAS",
+          "Descrição": "Rua São Jorge, 80, Jardim Ipiranga, Sete Barras, 11910-000",
+          "WKT": "POINT (-47.9286161 -24.3803849)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.9286161,
+            -24.3803849
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Severínia",
+          "Cidade": "SEVERÍNIA",
+          "Descrição": "Avenida Salomão Galib Tannuri, 927, COHAB 4, Severínia, 14735-000",
+          "WKT": "POINT (-48.8014915 -20.8058147)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.8014915,
+            -20.8058147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Socorro",
+          "Cidade": "SOCORRO",
+          "Descrição": "Rua Alfredo de Oliveira Santos, 68, Centro, Socorro, 13960-000",
+          "WKT": "POINT (-46.5286734 -22.5906428)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.5286734,
+            -22.5906428
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sorocaba",
+          "Cidade": "SOROCABA",
+          "Descrição": "Avenida General Osório, 1840, Vila Trujillo, Sorocaba, 18060-502",
+          "WKT": "POINT (-47.4794224 -23.4872811)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4794224,
+            -23.4872811
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sud Mennucci",
+          "Cidade": "SUD MENNUCCI",
+          "Descrição": "Rua Luiz Pereira Barreto, 809, Centro, Sud Mennucci, 15360-000",
+          "WKT": "POINT (-50.9221962 -20.6926123)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.9221962,
+            -20.6926123
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Sumaré",
+          "Cidade": "SUMARÉ",
+          "Descrição": "Rua Ipiranga, 73, Centro, Sumaré, 13170-026",
+          "WKT": "POINT (-47.2661043 -22.8203243)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2661043,
+            -22.8203243
+          ]
+        },
+        "id": 389
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Suzano",
+          "Cidade": "SUZANO",
+          "Descrição": "Rua Benjamin Constant, 1375, Centro, Suzano, 08674-011",
+          "WKT": "POINT (-46.3136638 -23.5458724)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3136638,
+            -23.5458724
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tabatinga",
+          "Cidade": "TABATINGA",
+          "Descrição": "Prolongamento da Avenida da Saudade Prefeito Santo Marquesi, 1371, Jardim Santa Elisa, Tabatinga, 14910-000",
+          "WKT": "POINT (-48.7013343 -21.7324855)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.7013343,
+            -21.7324855
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Taciba",
+          "Cidade": "TACIBA",
+          "Descrição": "Avenida Moisés Calixto, 1, Centro, Taciba, 19590-000",
+          "WKT": "POINT (-51.2853910 -22.3903429)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.285391,
+            -22.3903429
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tambaú",
+          "Cidade": "TAMBAÚ",
+          "Descrição": "Praça Padre Donizetti Tavares de Lima, 159, Centro, Tambaú, 13710-000",
+          "WKT": "POINT (-47.2718008 -21.7041680)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.2718008,
+            -21.704168
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tapiratiba",
+          "Cidade": "TAPIRATIBA",
+          "Descrição": "Praça Dona Esméria do Vale Figueiredo, 171, Centro, Tapiratiba, 13760-000",
+          "WKT": "POINT (-46.7490583 -21.4696574)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.7490583,
+            -21.4696574
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Taquaral",
+          "Cidade": "TAQUARAL",
+          "Descrição": "Rua Central, 338, Centro, Taquaral, 14765-000",
+          "WKT": "POINT (-48.4123227 -21.0733052)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.4123227,
+            -21.0733052
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Taquaritinga",
+          "Cidade": "TAQUARITINGA",
+          "Descrição": "Avenida Dr. Flávio Henrique Lemos, 585,, Taquaritinga, 15906-522",
+          "WKT": "POINT (-48.5152845 -21.4300940)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.5152845,
+            -21.430094
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Taquarituba",
+          "Cidade": "TAQUARITUBA",
+          "Descrição": "Rua São Benedito, 484, Centro, Taquarituba, 18740-000",
+          "WKT": "POINT (-49.2456288 -23.5311083)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.2456288,
+            -23.5311083
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Taquarivaí",
+          "Cidade": "TAQUARIVAÍ",
+          "Descrição": "Rua Benedito Paulino Nogueira, 1, Centro, Taquarivaí, 18425-000",
+          "WKT": "POINT (-48.7012044 -23.9268733)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.7012044,
+            -23.9268733
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tarabai",
+          "Cidade": "TARABAI",
+          "Descrição": "Avenida Waldemar Calvo, 2157, Centro, Tarabai, 19210-000",
+          "WKT": "POINT (-51.5589629 -22.3038701)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -51.5589629,
+            -22.3038701
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tarumã",
+          "Cidade": "TARUMÃ",
+          "Descrição": "Rua Lambaris, 405, Dourados, Tarumã, 19820- 000",
+          "WKT": "POINT (-50.5822147 -22.7447654)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.5822147,
+            -22.7447654
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tatuí",
+          "Cidade": "TATUÍ",
+          "Descrição": "Rodovia Mario Batista Mori, 971, Jd Aeroporto, Tatuí, 18280-000",
+          "WKT": "POINT (-47.8681762 -23.3306160)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.8681762,
+            -23.330616
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Taubaté",
+          "Cidade": "TAUBATÉ",
+          "Descrição": "Avenida Amador Bueno da Veiga, 220, Centro, Taubaté, 12050-000",
+          "WKT": "POINT (-45.5484973 -23.0093373)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.5484973,
+            -23.0093373
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Teodoro Sampaio",
+          "Cidade": "TEODORO SAMPAIO",
+          "Descrição": "Rua José Miguel de Castro Andrade, 916, Centro, Teodoro Sampaio, 19280-000",
+          "WKT": "POINT (-52.1733719 -22.5314368)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -52.1733719,
+            -22.5314368
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tietê",
+          "Cidade": "TIETÊ",
+          "Descrição": "Rua Luiz Montanham, 1190, Terra Nova, Tietê, 18530-000",
+          "WKT": "POINT (-47.7064503 -23.0862106)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.7064503,
+            -23.0862106
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Torrinha",
+          "Cidade": "TORRINHA",
+          "Descrição": "Estrada Amauri Barrozo de Souza Rod SP 304,  KM 247, Rural, Torrinha, 17360-000",
+          "WKT": "POINT (-48.2031739 -22.4390456)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.2031739,
+            -22.4390456
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tremembé",
+          "Cidade": "TREMEMBÉ",
+          "Descrição": "Rua Antonio Lourenço Xavier, 102, Jardim Bom Jesus, Tremembé, 12120-000",
+          "WKT": "POINT (-45.5500502 -22.9645794)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.5500502,
+            -22.9645794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Tupã",
+          "Cidade": "TUPÃ",
+          "Descrição": "Praça Rui Barbosa, 1420, Centro, Tupã, 17604- 011",
+          "WKT": "POINT (-50.5329678 -21.9320258)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.5329678,
+            -21.9320258
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Ubatuba",
+          "Cidade": "UBATUBA",
+          "Descrição": "Rua Conceição, 710, Centro, Ubatuba, 11680-000",
+          "WKT": "POINT (-45.0769633 -23.4344022)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -45.0769633,
+            -23.4344022
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Urupês",
+          "Cidade": "URUPÊS",
+          "Descrição": "Rua José Bonifácio, 804, Centro, Urupês, 15850- 000",
+          "WKT": "POINT (-49.2888437 -21.1996992)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.2888437,
+            -21.1996992
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Valinhos",
+          "Cidade": "VALINHOS",
+          "Descrição": "Rua dos Gerânios, 85, Jardim Paraíso, Valinhos, 13273-340",
+          "WKT": "POINT (-46.9802446 -22.9516932)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9802446,
+            -22.9516932
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Valparaíso",
+          "Cidade": "VALPARAÍSO",
+          "Descrição": "Avenida Nove de Julho, 755, Centro, Valparaíso, 16880-000",
+          "WKT": "POINT (-50.8680308 -21.2234510)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -50.8680308,
+            -21.223451
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Vargem Grande Do Sul",
+          "Cidade": "VARGEM GRANDE DO SUL",
+          "Descrição": "Rua São Braz, 200, Santa Terezinha, Vargem Grande Do Sul, 13880-000",
+          "WKT": "POINT (-46.9045968 -21.8411508)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9045968,
+            -21.8411508
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Vargem Grande Paulista",
+          "Cidade": "VARGEM GRANDE PAULISTA",
+          "Descrição": "Rua Mario Scarvance, 102, Centro, Vargem Grande Paulista, 06730-000",
+          "WKT": "POINT (-47.0225324 -23.6052717)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.0225324,
+            -23.6052717
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Vera Cruz",
+          "Cidade": "VERA CRUZ",
+          "Descrição": "Rua José Godoy Alves, 55, Cid Pimentel, Vera Cruz, 17560-342",
+          "WKT": "POINT (-49.8117689 -22.2264412)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.8117689,
+            -22.2264412
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Vinhedo",
+          "Cidade": "VINHEDO",
+          "Descrição": "Avenida Independência, 5110, Jardim Alba, Vinhedo, 13289-038",
+          "WKT": "POINT (-46.9803205 -23.0301137)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.9803205,
+            -23.0301137
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Viradouro",
+          "Cidade": "VIRADOURO",
+          "Descrição": "Rua Durval Marçal Vieira, 671, Jardim das Palmeiras, Viradouro, 14740-000",
+          "WKT": "POINT (-48.2879881 -20.8623530)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -48.2879881,
+            -20.862353
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Votorantim",
+          "Cidade": "VOTORANTIM",
+          "Descrição": "Avenida Vereador Newton Vieira Soares, 291, Centro, Votorantim, 18110-013",
+          "WKT": "POINT (-47.4458607 -23.5430433)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -47.4458607,
+            -23.5430433
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "Votuporanga",
+          "Cidade": "VOTUPORANGA",
+          "Descrição": "Rua Pernambuco, 1736, Vila Muniz, Votuporanga, 15501-095",
+          "WKT": "POINT (-49.9707663 -20.4372640)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -49.9707663,
+            -20.437264
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Nome Polo": "CEU Três Pontes",
+          "Cidade": "SÃO PAULO",
+          "Descrição": "Rua Capachós, 400, Jardim Celia, São Paulo, 08191-330",
+          "WKT": "POINT (-46.3811891 -23.4778947)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -46.3811891,
+            -23.4778947
+          ]
+        }
+      }
+    ]
+  }
